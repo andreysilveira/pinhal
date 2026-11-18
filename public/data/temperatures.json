@@ -3,8 +3,8 @@
     "source": "Open-Meteo Weather Forecast API",
     "sourceUrl": "https://open-meteo.com/",
     "attribution": "Weather data by Open-Meteo.com (CC BY 4.0)",
-    "collectedAt": "2026-11-18T07:14:16.446874Z",
-    "updatedAt": "2026-11-18T04:00:00-03:00",
+    "collectedAt": "2026-11-18T17:47:24.587141Z",
+    "updatedAt": "2026-11-18T14:45:00-03:00",
     "totalMunicipalities": 399,
     "availableMunicipalities": 399,
     "status": "complete",
@@ -15,3194 +15,3194 @@
     {
       "municipalityId": "4100103",
       "municipalityName": "Abatiá",
-      "currentTemperature": 20.8,
-      "maximumTemperature": 28.2,
-      "minimumTemperature": 20.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.6,
+      "maximumTemperature": 30.7,
+      "minimumTemperature": 20.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4100202",
       "municipalityName": "Adrianópolis",
-      "currentTemperature": 18.5,
-      "maximumTemperature": 28.2,
-      "minimumTemperature": 17.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 23.2,
+      "maximumTemperature": 28.8,
+      "minimumTemperature": 17.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4100301",
       "municipalityName": "Agudos do Sul",
-      "currentTemperature": 17.8,
-      "maximumTemperature": 25.3,
-      "minimumTemperature": 17.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 25.3,
+      "maximumTemperature": 28.5,
+      "minimumTemperature": 16.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4100400",
       "municipalityName": "Almirante Tamandaré",
-      "currentTemperature": 16.1,
-      "maximumTemperature": 25.8,
-      "minimumTemperature": 15.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 23.7,
+      "maximumTemperature": 27.2,
+      "minimumTemperature": 16.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4100459",
       "municipalityName": "Altamira do Paraná",
-      "currentTemperature": 19.5,
-      "maximumTemperature": 25.9,
-      "minimumTemperature": 19.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.7,
+      "maximumTemperature": 29.7,
+      "minimumTemperature": 19.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4100509",
       "municipalityName": "Altônia",
-      "currentTemperature": 22.8,
-      "maximumTemperature": 28.2,
-      "minimumTemperature": 22.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.0,
+      "maximumTemperature": 30.1,
+      "minimumTemperature": 21.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4100608",
       "municipalityName": "Alto Paraná",
-      "currentTemperature": 22.7,
-      "maximumTemperature": 28.9,
-      "minimumTemperature": 22.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.4,
+      "maximumTemperature": 31.3,
+      "minimumTemperature": 21.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4100707",
       "municipalityName": "Alto Piquiri",
-      "currentTemperature": 21.9,
-      "maximumTemperature": 27.7,
-      "minimumTemperature": 21.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.4,
+      "maximumTemperature": 29.7,
+      "minimumTemperature": 20.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4100806",
       "municipalityName": "Alvorada do Sul",
-      "currentTemperature": 23.7,
-      "maximumTemperature": 29.0,
-      "minimumTemperature": 23.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.8,
+      "maximumTemperature": 31.3,
+      "minimumTemperature": 22.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4100905",
       "municipalityName": "Amaporã",
-      "currentTemperature": 22.8,
-      "maximumTemperature": 28.8,
-      "minimumTemperature": 22.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.8,
+      "maximumTemperature": 30.9,
+      "minimumTemperature": 21.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4101002",
       "municipalityName": "Ampére",
-      "currentTemperature": 20.0,
-      "maximumTemperature": 26.9,
-      "minimumTemperature": 19.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.5,
+      "maximumTemperature": 30.5,
+      "minimumTemperature": 19.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4101051",
       "municipalityName": "Anahy",
-      "currentTemperature": 20.5,
-      "maximumTemperature": 26.6,
-      "minimumTemperature": 20.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.7,
+      "maximumTemperature": 31.0,
+      "minimumTemperature": 19.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4101101",
       "municipalityName": "Andirá",
-      "currentTemperature": 22.1,
-      "maximumTemperature": 30.9,
-      "minimumTemperature": 21.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 32.7,
+      "maximumTemperature": 33.0,
+      "minimumTemperature": 22.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4101150",
       "municipalityName": "Ângulo",
-      "currentTemperature": 22.8,
-      "maximumTemperature": 30.3,
-      "minimumTemperature": 22.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.7,
+      "maximumTemperature": 32.2,
+      "minimumTemperature": 22.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4101200",
       "municipalityName": "Antonina",
-      "currentTemperature": 20.9,
-      "maximumTemperature": 29.9,
-      "minimumTemperature": 20.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.0,
+      "maximumTemperature": 30.7,
+      "minimumTemperature": 20.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4101309",
       "municipalityName": "Antônio Olinto",
-      "currentTemperature": 18.3,
-      "maximumTemperature": 25.7,
-      "minimumTemperature": 17.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.6,
+      "maximumTemperature": 28.9,
+      "minimumTemperature": 17.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4101408",
       "municipalityName": "Apucarana",
-      "currentTemperature": 20.5,
-      "maximumTemperature": 27.0,
-      "minimumTemperature": 19.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.6,
+      "maximumTemperature": 29.7,
+      "minimumTemperature": 19.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4101507",
       "municipalityName": "Arapongas",
-      "currentTemperature": 20.5,
-      "maximumTemperature": 27.0,
-      "minimumTemperature": 20.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 26.6,
+      "maximumTemperature": 29.4,
+      "minimumTemperature": 19.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4101606",
       "municipalityName": "Arapoti",
-      "currentTemperature": 18.6,
-      "maximumTemperature": 28.1,
-      "minimumTemperature": 17.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.8,
+      "maximumTemperature": 29.3,
+      "minimumTemperature": 19.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4101655",
       "municipalityName": "Arapuã",
-      "currentTemperature": 20.7,
-      "maximumTemperature": 25.3,
-      "minimumTemperature": 20.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.7,
+      "maximumTemperature": 28.8,
+      "minimumTemperature": 20.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4101705",
       "municipalityName": "Araruna",
-      "currentTemperature": 20.7,
-      "maximumTemperature": 27.0,
-      "minimumTemperature": 20.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.7,
+      "maximumTemperature": 30.2,
+      "minimumTemperature": 19.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4101804",
       "municipalityName": "Araucária",
-      "currentTemperature": 17.5,
-      "maximumTemperature": 26.3,
-      "minimumTemperature": 16.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 25.8,
+      "maximumTemperature": 27.9,
+      "minimumTemperature": 17.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4101853",
       "municipalityName": "Ariranha do Ivaí",
-      "currentTemperature": 18.9,
-      "maximumTemperature": 25.7,
-      "minimumTemperature": 18.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.0,
+      "maximumTemperature": 29.2,
+      "minimumTemperature": 18.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4101903",
       "municipalityName": "Assaí",
-      "currentTemperature": 22.1,
-      "maximumTemperature": 28.2,
-      "minimumTemperature": 21.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.3,
+      "maximumTemperature": 31.0,
+      "minimumTemperature": 20.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4102000",
       "municipalityName": "Assis Chateaubriand",
-      "currentTemperature": 21.3,
-      "maximumTemperature": 27.1,
-      "minimumTemperature": 21.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.9,
+      "maximumTemperature": 30.2,
+      "minimumTemperature": 19.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4102109",
       "municipalityName": "Astorga",
-      "currentTemperature": 21.9,
-      "maximumTemperature": 28.3,
-      "minimumTemperature": 21.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.1,
+      "maximumTemperature": 30.5,
+      "minimumTemperature": 20.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4102208",
       "municipalityName": "Atalaia",
-      "currentTemperature": 22.3,
-      "maximumTemperature": 29.6,
-      "minimumTemperature": 21.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.5,
+      "maximumTemperature": 31.1,
+      "minimumTemperature": 21.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4102307",
       "municipalityName": "Balsa Nova",
-      "currentTemperature": 17.2,
-      "maximumTemperature": 26.1,
-      "minimumTemperature": 16.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.2,
+      "maximumTemperature": 27.8,
+      "minimumTemperature": 16.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4102406",
       "municipalityName": "Bandeirantes",
-      "currentTemperature": 21.8,
-      "maximumTemperature": 29.8,
-      "minimumTemperature": 21.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.7,
+      "maximumTemperature": 32.1,
+      "minimumTemperature": 21.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4102505",
       "municipalityName": "Barbosa Ferraz",
-      "currentTemperature": 21.3,
-      "maximumTemperature": 26.6,
-      "minimumTemperature": 21.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.7,
+      "maximumTemperature": 29.9,
+      "minimumTemperature": 20.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4102604",
       "municipalityName": "Barracão",
-      "currentTemperature": 19.5,
-      "maximumTemperature": 26.0,
-      "minimumTemperature": 19.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.7,
+      "maximumTemperature": 29.0,
+      "minimumTemperature": 18.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4102703",
       "municipalityName": "Barra do Jacaré",
-      "currentTemperature": 21.8,
-      "maximumTemperature": 30.1,
-      "minimumTemperature": 21.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.7,
+      "maximumTemperature": 32.2,
+      "minimumTemperature": 21.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4102752",
       "municipalityName": "Bela Vista da Caroba",
-      "currentTemperature": 20.1,
-      "maximumTemperature": 27.0,
-      "minimumTemperature": 19.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.3,
+      "maximumTemperature": 30.5,
+      "minimumTemperature": 18.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4102802",
       "municipalityName": "Bela Vista do Paraíso",
-      "currentTemperature": 22.1,
-      "maximumTemperature": 28.9,
-      "minimumTemperature": 20.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.5,
+      "maximumTemperature": 30.8,
+      "minimumTemperature": 21.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4102901",
       "municipalityName": "Bituruna",
-      "currentTemperature": 16.3,
-      "maximumTemperature": 26.3,
-      "minimumTemperature": 16.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.9,
+      "maximumTemperature": 28.9,
+      "minimumTemperature": 15.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4103008",
       "municipalityName": "Boa Esperança",
-      "currentTemperature": 21.1,
-      "maximumTemperature": 26.9,
-      "minimumTemperature": 20.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.7,
+      "maximumTemperature": 30.0,
+      "minimumTemperature": 20.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4103024",
       "municipalityName": "Boa Esperança do Iguaçu",
-      "currentTemperature": 20.7,
-      "maximumTemperature": 27.2,
-      "minimumTemperature": 20.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.4,
+      "maximumTemperature": 31.4,
+      "minimumTemperature": 19.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4103040",
       "municipalityName": "Boa Ventura de São Roque",
-      "currentTemperature": 18.0,
-      "maximumTemperature": 25.9,
-      "minimumTemperature": 17.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.9,
+      "maximumTemperature": 28.1,
+      "minimumTemperature": 17.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4103057",
       "municipalityName": "Boa Vista da Aparecida",
-      "currentTemperature": 20.6,
-      "maximumTemperature": 28.2,
-      "minimumTemperature": 20.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.6,
+      "maximumTemperature": 31.6,
+      "minimumTemperature": 19.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4103107",
       "municipalityName": "Bocaiúva do Sul",
-      "currentTemperature": 16.2,
-      "maximumTemperature": 26.9,
-      "minimumTemperature": 16.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 22.2,
+      "maximumTemperature": 27.5,
+      "minimumTemperature": 15.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4103156",
       "municipalityName": "Bom Jesus do Sul",
-      "currentTemperature": 19.0,
-      "maximumTemperature": 26.0,
-      "minimumTemperature": 18.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.9,
+      "maximumTemperature": 28.9,
+      "minimumTemperature": 17.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4103206",
       "municipalityName": "Bom Sucesso",
-      "currentTemperature": 22.8,
-      "maximumTemperature": 27.2,
-      "minimumTemperature": 22.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.9,
+      "maximumTemperature": 31.0,
+      "minimumTemperature": 20.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4103222",
       "municipalityName": "Bom Sucesso do Sul",
-      "currentTemperature": 19.4,
-      "maximumTemperature": 26.2,
-      "minimumTemperature": 19.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.1,
+      "maximumTemperature": 29.2,
+      "minimumTemperature": 18.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4103305",
       "municipalityName": "Borrazópolis",
-      "currentTemperature": 21.3,
-      "maximumTemperature": 26.5,
-      "minimumTemperature": 20.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.8,
+      "maximumTemperature": 30.1,
+      "minimumTemperature": 19.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4103354",
       "municipalityName": "Braganey",
-      "currentTemperature": 20.1,
-      "maximumTemperature": 26.5,
-      "minimumTemperature": 19.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.1,
+      "maximumTemperature": 31.3,
+      "minimumTemperature": 18.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4103370",
       "municipalityName": "Brasilândia do Sul",
-      "currentTemperature": 22.0,
-      "maximumTemperature": 28.1,
-      "minimumTemperature": 21.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.9,
+      "maximumTemperature": 30.0,
+      "minimumTemperature": 20.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4103404",
       "municipalityName": "Cafeara",
-      "currentTemperature": 23.0,
-      "maximumTemperature": 30.8,
-      "minimumTemperature": 22.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.4,
+      "maximumTemperature": 32.4,
+      "minimumTemperature": 22.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4103453",
       "municipalityName": "Cafelândia",
-      "currentTemperature": 20.2,
-      "maximumTemperature": 26.3,
-      "minimumTemperature": 20.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.2,
+      "maximumTemperature": 29.4,
+      "minimumTemperature": 18.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4103479",
       "municipalityName": "Cafezal do Sul",
-      "currentTemperature": 22.2,
-      "maximumTemperature": 28.2,
-      "minimumTemperature": 22.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.0,
+      "maximumTemperature": 30.1,
+      "minimumTemperature": 20.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4103503",
       "municipalityName": "Califórnia",
-      "currentTemperature": 20.7,
-      "maximumTemperature": 27.4,
-      "minimumTemperature": 20.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.2,
+      "maximumTemperature": 30.1,
+      "minimumTemperature": 19.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4103602",
       "municipalityName": "Cambará",
-      "currentTemperature": 21.6,
-      "maximumTemperature": 30.8,
-      "minimumTemperature": 21.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 32.5,
+      "maximumTemperature": 32.6,
+      "minimumTemperature": 21.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4103701",
       "municipalityName": "Cambé",
-      "currentTemperature": 22.0,
-      "maximumTemperature": 28.1,
-      "minimumTemperature": 21.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.7,
+      "maximumTemperature": 30.3,
+      "minimumTemperature": 20.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4103800",
       "municipalityName": "Cambira",
-      "currentTemperature": 21.8,
-      "maximumTemperature": 26.3,
-      "minimumTemperature": 21.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.1,
+      "maximumTemperature": 29.6,
+      "minimumTemperature": 20.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4103909",
       "municipalityName": "Campina da Lagoa",
-      "currentTemperature": 20.1,
-      "maximumTemperature": 26.3,
-      "minimumTemperature": 19.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.6,
+      "maximumTemperature": 29.6,
+      "minimumTemperature": 19.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4103958",
       "municipalityName": "Campina do Simão",
-      "currentTemperature": 17.2,
-      "maximumTemperature": 24.7,
-      "minimumTemperature": 17.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 26.3,
+      "maximumTemperature": 26.9,
+      "minimumTemperature": 17.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4104006",
       "municipalityName": "Campina Grande do Sul",
-      "currentTemperature": 15.6,
-      "maximumTemperature": 26.0,
-      "minimumTemperature": 15.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 20.6,
+      "maximumTemperature": 27.2,
+      "minimumTemperature": 15.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4104055",
       "municipalityName": "Campo Bonito",
-      "currentTemperature": 19.7,
-      "maximumTemperature": 25.9,
-      "minimumTemperature": 19.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.5,
+      "maximumTemperature": 29.7,
+      "minimumTemperature": 18.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4104105",
       "municipalityName": "Campo do Tenente",
-      "currentTemperature": 18.2,
-      "maximumTemperature": 24.5,
-      "minimumTemperature": 17.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.1,
+      "maximumTemperature": 28.4,
+      "minimumTemperature": 17.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4104204",
       "municipalityName": "Campo Largo",
-      "currentTemperature": 18.3,
-      "maximumTemperature": 28.6,
-      "minimumTemperature": 18.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 26.2,
+      "maximumTemperature": 29.4,
+      "minimumTemperature": 17.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4104253",
       "municipalityName": "Campo Magro",
-      "currentTemperature": 18.2,
-      "maximumTemperature": 28.7,
-      "minimumTemperature": 17.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 26.0,
+      "maximumTemperature": 29.1,
+      "minimumTemperature": 17.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4104303",
       "municipalityName": "Campo Mourão",
-      "currentTemperature": 20.9,
-      "maximumTemperature": 26.6,
-      "minimumTemperature": 20.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.6,
+      "maximumTemperature": 29.7,
+      "minimumTemperature": 20.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4104402",
       "municipalityName": "Cândido de Abreu",
-      "currentTemperature": 19.7,
-      "maximumTemperature": 25.9,
-      "minimumTemperature": 19.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.1,
+      "maximumTemperature": 29.3,
+      "minimumTemperature": 18.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4104428",
       "municipalityName": "Candói",
-      "currentTemperature": 18.3,
-      "maximumTemperature": 26.7,
-      "minimumTemperature": 18.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.3,
+      "maximumTemperature": 28.3,
+      "minimumTemperature": 18.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4104451",
       "municipalityName": "Cantagalo",
-      "currentTemperature": 19.0,
-      "maximumTemperature": 26.4,
+      "currentTemperature": 27.8,
+      "maximumTemperature": 27.9,
       "minimumTemperature": 18.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4104501",
       "municipalityName": "Capanema",
-      "currentTemperature": 21.5,
-      "maximumTemperature": 28.0,
-      "minimumTemperature": 20.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 33.3,
+      "maximumTemperature": 33.3,
+      "minimumTemperature": 20.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4104600",
       "municipalityName": "Capitão Leônidas Marques",
-      "currentTemperature": 21.1,
-      "maximumTemperature": 28.3,
-      "minimumTemperature": 20.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.9,
+      "maximumTemperature": 32.0,
+      "minimumTemperature": 19.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4104659",
       "municipalityName": "Carambeí",
-      "currentTemperature": 17.5,
-      "maximumTemperature": 26.2,
-      "minimumTemperature": 16.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.2,
+      "maximumTemperature": 27.8,
+      "minimumTemperature": 17.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4104709",
       "municipalityName": "Carlópolis",
-      "currentTemperature": 19.3,
-      "maximumTemperature": 28.3,
-      "minimumTemperature": 19.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 24.4,
+      "maximumTemperature": 27.8,
+      "minimumTemperature": 19.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4104808",
       "municipalityName": "Cascavel",
-      "currentTemperature": 19.8,
-      "maximumTemperature": 26.4,
-      "minimumTemperature": 19.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.2,
+      "maximumTemperature": 29.4,
+      "minimumTemperature": 18.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4104907",
       "municipalityName": "Castro",
-      "currentTemperature": 16.8,
-      "maximumTemperature": 25.1,
-      "minimumTemperature": 16.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 25.3,
+      "maximumTemperature": 26.1,
+      "minimumTemperature": 17.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4105003",
       "municipalityName": "Catanduvas",
-      "currentTemperature": 20.4,
-      "maximumTemperature": 27.6,
-      "minimumTemperature": 20.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.2,
+      "maximumTemperature": 30.3,
+      "minimumTemperature": 19.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4105102",
       "municipalityName": "Centenário do Sul",
-      "currentTemperature": 23.4,
-      "maximumTemperature": 31.4,
-      "minimumTemperature": 22.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.3,
+      "maximumTemperature": 32.5,
+      "minimumTemperature": 22.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4105201",
       "municipalityName": "Cerro Azul",
-      "currentTemperature": 19.0,
-      "maximumTemperature": 26.3,
-      "minimumTemperature": 18.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.3,
+      "maximumTemperature": 27.6,
+      "minimumTemperature": 19.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4105300",
       "municipalityName": "Céu Azul",
-      "currentTemperature": 20.7,
-      "maximumTemperature": 27.4,
-      "minimumTemperature": 20.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.9,
+      "maximumTemperature": 30.9,
+      "minimumTemperature": 20.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4105409",
       "municipalityName": "Chopinzinho",
-      "currentTemperature": 19.5,
-      "maximumTemperature": 27.2,
-      "minimumTemperature": 19.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.9,
+      "maximumTemperature": 30.0,
+      "minimumTemperature": 18.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4105508",
       "municipalityName": "Cianorte",
-      "currentTemperature": 21.4,
-      "maximumTemperature": 27.3,
-      "minimumTemperature": 21.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.5,
+      "maximumTemperature": 30.0,
+      "minimumTemperature": 19.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4105607",
       "municipalityName": "Cidade Gaúcha",
-      "currentTemperature": 22.3,
-      "maximumTemperature": 27.6,
-      "minimumTemperature": 22.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.2,
+      "maximumTemperature": 30.3,
+      "minimumTemperature": 20.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4105706",
       "municipalityName": "Clevelândia",
-      "currentTemperature": 18.0,
-      "maximumTemperature": 25.6,
-      "minimumTemperature": 17.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.2,
+      "maximumTemperature": 28.4,
+      "minimumTemperature": 16.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4105805",
       "municipalityName": "Colombo",
-      "currentTemperature": 16.7,
-      "maximumTemperature": 25.7,
-      "minimumTemperature": 16.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 23.6,
+      "maximumTemperature": 28.3,
+      "minimumTemperature": 16.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4105904",
       "municipalityName": "Colorado",
-      "currentTemperature": 23.0,
-      "maximumTemperature": 31.4,
-      "minimumTemperature": 22.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.4,
+      "maximumTemperature": 33.1,
+      "minimumTemperature": 22.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4106001",
       "municipalityName": "Congonhinhas",
-      "currentTemperature": 19.8,
-      "maximumTemperature": 26.4,
-      "minimumTemperature": 18.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.7,
+      "maximumTemperature": 28.8,
+      "minimumTemperature": 19.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4106100",
       "municipalityName": "Conselheiro Mairinck",
-      "currentTemperature": 20.3,
-      "maximumTemperature": 27.8,
-      "minimumTemperature": 19.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.8,
+      "maximumTemperature": 30.0,
+      "minimumTemperature": 20.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4106209",
       "municipalityName": "Contenda",
-      "currentTemperature": 17.9,
-      "maximumTemperature": 25.6,
-      "minimumTemperature": 16.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.2,
+      "maximumTemperature": 28.0,
+      "minimumTemperature": 17.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4106308",
       "municipalityName": "Corbélia",
-      "currentTemperature": 20.2,
-      "maximumTemperature": 26.3,
-      "minimumTemperature": 20.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.1,
+      "maximumTemperature": 30.2,
+      "minimumTemperature": 18.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4106407",
       "municipalityName": "Cornélio Procópio",
-      "currentTemperature": 21.6,
-      "maximumTemperature": 29.0,
+      "currentTemperature": 30.2,
+      "maximumTemperature": 31.0,
       "minimumTemperature": 20.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4106456",
       "municipalityName": "Coronel Domingos Soares",
-      "currentTemperature": 16.6,
-      "maximumTemperature": 25.2,
-      "minimumTemperature": 16.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.2,
+      "maximumTemperature": 28.2,
+      "minimumTemperature": 14.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4106506",
       "municipalityName": "Coronel Vivida",
-      "currentTemperature": 18.8,
-      "maximumTemperature": 26.8,
-      "minimumTemperature": 18.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.4,
+      "maximumTemperature": 29.5,
+      "minimumTemperature": 18.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4106555",
       "municipalityName": "Corumbataí do Sul",
-      "currentTemperature": 21.0,
-      "maximumTemperature": 26.4,
-      "minimumTemperature": 20.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.1,
+      "maximumTemperature": 29.4,
+      "minimumTemperature": 20.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4106571",
       "municipalityName": "Cruzeiro do Iguaçu",
-      "currentTemperature": 20.5,
-      "maximumTemperature": 26.9,
-      "minimumTemperature": 20.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.1,
+      "maximumTemperature": 31.2,
+      "minimumTemperature": 19.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4106605",
       "municipalityName": "Cruzeiro do Oeste",
-      "currentTemperature": 22.1,
-      "maximumTemperature": 27.4,
-      "minimumTemperature": 21.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.7,
+      "maximumTemperature": 29.7,
+      "minimumTemperature": 20.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4106704",
       "municipalityName": "Cruzeiro do Sul",
-      "currentTemperature": 22.5,
-      "maximumTemperature": 30.0,
-      "minimumTemperature": 22.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.3,
+      "maximumTemperature": 31.6,
+      "minimumTemperature": 21.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4106803",
       "municipalityName": "Cruz Machado",
-      "currentTemperature": 16.1,
-      "maximumTemperature": 25.0,
-      "minimumTemperature": 15.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.5,
+      "maximumTemperature": 28.6,
+      "minimumTemperature": 15.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4106852",
       "municipalityName": "Cruzmaltina",
-      "currentTemperature": 21.6,
-      "maximumTemperature": 26.6,
-      "minimumTemperature": 21.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.5,
+      "maximumTemperature": 29.8,
+      "minimumTemperature": 19.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4106902",
       "municipalityName": "Curitiba",
-      "currentTemperature": 17.8,
-      "maximumTemperature": 27.2,
-      "minimumTemperature": 17.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 24.7,
+      "maximumTemperature": 28.5,
+      "minimumTemperature": 17.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4107009",
       "municipalityName": "Curiúva",
-      "currentTemperature": 19.4,
-      "maximumTemperature": 26.0,
-      "minimumTemperature": 18.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.8,
+      "maximumTemperature": 29.0,
+      "minimumTemperature": 18.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4107108",
       "municipalityName": "Diamante do Norte",
-      "currentTemperature": 23.6,
-      "maximumTemperature": 29.9,
-      "minimumTemperature": 23.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.5,
+      "maximumTemperature": 31.6,
+      "minimumTemperature": 22.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4107124",
       "municipalityName": "Diamante do Sul",
-      "currentTemperature": 20.0,
-      "maximumTemperature": 25.8,
-      "minimumTemperature": 19.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.2,
+      "maximumTemperature": 29.4,
+      "minimumTemperature": 19.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4107157",
       "municipalityName": "Diamante D'Oeste",
-      "currentTemperature": 21.2,
-      "maximumTemperature": 28.2,
-      "minimumTemperature": 21.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.9,
+      "maximumTemperature": 31.6,
+      "minimumTemperature": 20.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4107207",
       "municipalityName": "Dois Vizinhos",
-      "currentTemperature": 19.7,
-      "maximumTemperature": 26.4,
-      "minimumTemperature": 19.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.3,
+      "maximumTemperature": 30.3,
+      "minimumTemperature": 18.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4107256",
       "municipalityName": "Douradina",
-      "currentTemperature": 22.2,
-      "maximumTemperature": 27.7,
-      "minimumTemperature": 22.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.3,
+      "maximumTemperature": 30.3,
+      "minimumTemperature": 20.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4107306",
       "municipalityName": "Doutor Camargo",
-      "currentTemperature": 22.0,
-      "maximumTemperature": 28.7,
-      "minimumTemperature": 21.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.3,
+      "maximumTemperature": 31.6,
+      "minimumTemperature": 20.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4107405",
       "municipalityName": "Enéas Marques",
-      "currentTemperature": 19.3,
-      "maximumTemperature": 25.7,
-      "minimumTemperature": 19.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.1,
+      "maximumTemperature": 29.2,
+      "minimumTemperature": 17.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4107504",
       "municipalityName": "Engenheiro Beltrão",
-      "currentTemperature": 21.5,
-      "maximumTemperature": 28.4,
-      "minimumTemperature": 21.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.0,
+      "maximumTemperature": 31.1,
+      "minimumTemperature": 20.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4107520",
       "municipalityName": "Esperança Nova",
-      "currentTemperature": 22.4,
-      "maximumTemperature": 28.1,
-      "minimumTemperature": 22.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.9,
+      "maximumTemperature": 30.0,
+      "minimumTemperature": 20.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4107538",
       "municipalityName": "Entre Rios do Oeste",
-      "currentTemperature": 21.9,
-      "maximumTemperature": 28.7,
-      "minimumTemperature": 21.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.2,
+      "maximumTemperature": 30.7,
+      "minimumTemperature": 21.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4107546",
       "municipalityName": "Espigão Alto do Iguaçu",
-      "currentTemperature": 19.8,
-      "maximumTemperature": 27.1,
-      "minimumTemperature": 19.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.8,
+      "maximumTemperature": 29.9,
+      "minimumTemperature": 18.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4107553",
       "municipalityName": "Farol",
-      "currentTemperature": 20.7,
-      "maximumTemperature": 26.8,
-      "minimumTemperature": 20.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.3,
+      "maximumTemperature": 29.6,
+      "minimumTemperature": 19.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4107603",
       "municipalityName": "Faxinal",
-      "currentTemperature": 20.5,
-      "maximumTemperature": 25.7,
-      "minimumTemperature": 19.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.5,
+      "maximumTemperature": 28.7,
+      "minimumTemperature": 19.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4107652",
       "municipalityName": "Fazenda Rio Grande",
-      "currentTemperature": 17.3,
-      "maximumTemperature": 24.0,
-      "minimumTemperature": 16.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 25.0,
+      "maximumTemperature": 27.7,
+      "minimumTemperature": 16.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4107702",
       "municipalityName": "Fênix",
-      "currentTemperature": 21.2,
-      "maximumTemperature": 26.9,
-      "minimumTemperature": 21.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.0,
+      "maximumTemperature": 31.1,
+      "minimumTemperature": 20.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4107736",
       "municipalityName": "Fernandes Pinheiro",
-      "currentTemperature": 17.9,
-      "maximumTemperature": 25.4,
-      "minimumTemperature": 17.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.2,
+      "maximumTemperature": 28.9,
+      "minimumTemperature": 17.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4107751",
       "municipalityName": "Figueira",
-      "currentTemperature": 19.8,
-      "maximumTemperature": 26.6,
-      "minimumTemperature": 18.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.0,
+      "maximumTemperature": 29.1,
+      "minimumTemperature": 19.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4107801",
       "municipalityName": "Floraí",
-      "currentTemperature": 23.1,
-      "maximumTemperature": 28.2,
-      "minimumTemperature": 22.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.6,
+      "maximumTemperature": 30.9,
+      "minimumTemperature": 21.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4107850",
       "municipalityName": "Flor da Serra do Sul",
-      "currentTemperature": 18.4,
-      "maximumTemperature": 25.9,
-      "minimumTemperature": 18.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.9,
+      "maximumTemperature": 28.9,
+      "minimumTemperature": 16.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4107900",
       "municipalityName": "Floresta",
-      "currentTemperature": 22.6,
-      "maximumTemperature": 28.3,
-      "minimumTemperature": 22.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.0,
+      "maximumTemperature": 31.0,
+      "minimumTemperature": 21.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4108007",
       "municipalityName": "Florestópolis",
-      "currentTemperature": 22.9,
-      "maximumTemperature": 30.3,
-      "minimumTemperature": 22.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.3,
+      "maximumTemperature": 32.1,
+      "minimumTemperature": 21.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4108106",
       "municipalityName": "Flórida",
-      "currentTemperature": 22.5,
-      "maximumTemperature": 30.3,
-      "minimumTemperature": 22.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.5,
+      "maximumTemperature": 31.7,
+      "minimumTemperature": 21.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4108205",
       "municipalityName": "Formosa do Oeste",
-      "currentTemperature": 21.7,
-      "maximumTemperature": 27.7,
-      "minimumTemperature": 21.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.3,
+      "maximumTemperature": 31.0,
+      "minimumTemperature": 20.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4108304",
       "municipalityName": "Foz do Iguaçu",
-      "currentTemperature": 22.0,
-      "maximumTemperature": 27.2,
-      "minimumTemperature": 21.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.9,
+      "maximumTemperature": 30.4,
+      "minimumTemperature": 20.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4108320",
       "municipalityName": "Francisco Alves",
-      "currentTemperature": 22.3,
-      "maximumTemperature": 28.2,
-      "minimumTemperature": 22.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.1,
+      "maximumTemperature": 30.1,
+      "minimumTemperature": 20.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4108403",
       "municipalityName": "Francisco Beltrão",
-      "currentTemperature": 18.4,
-      "maximumTemperature": 26.2,
-      "minimumTemperature": 18.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.1,
+      "maximumTemperature": 29.1,
+      "minimumTemperature": 16.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4108452",
       "municipalityName": "Foz do Jordão",
-      "currentTemperature": 18.8,
-      "maximumTemperature": 26.9,
-      "minimumTemperature": 18.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.1,
+      "maximumTemperature": 29.4,
+      "minimumTemperature": 18.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4108502",
       "municipalityName": "General Carneiro",
-      "currentTemperature": 14.9,
-      "maximumTemperature": 24.4,
-      "minimumTemperature": 14.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 25.4,
+      "maximumTemperature": 26.8,
+      "minimumTemperature": 13.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4108551",
       "municipalityName": "Godoy Moreira",
-      "currentTemperature": 21.5,
-      "maximumTemperature": 26.7,
-      "minimumTemperature": 21.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.1,
+      "maximumTemperature": 30.3,
+      "minimumTemperature": 20.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4108601",
       "municipalityName": "Goioerê",
-      "currentTemperature": 21.4,
-      "maximumTemperature": 27.3,
-      "minimumTemperature": 21.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.8,
+      "maximumTemperature": 30.7,
+      "minimumTemperature": 20.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4108650",
       "municipalityName": "Goioxim",
-      "currentTemperature": 16.9,
-      "maximumTemperature": 24.0,
-      "minimumTemperature": 16.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 25.7,
+      "maximumTemperature": 25.8,
+      "minimumTemperature": 16.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4108700",
       "municipalityName": "Grandes Rios",
-      "currentTemperature": 20.4,
-      "maximumTemperature": 25.9,
-      "minimumTemperature": 20.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.0,
+      "maximumTemperature": 30.1,
+      "minimumTemperature": 20.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4108809",
       "municipalityName": "Guaíra",
-      "currentTemperature": 22.9,
-      "maximumTemperature": 28.1,
-      "minimumTemperature": 22.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.2,
+      "maximumTemperature": 30.2,
+      "minimumTemperature": 21.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4108908",
       "municipalityName": "Guairaçá",
-      "currentTemperature": 22.4,
-      "maximumTemperature": 28.8,
-      "minimumTemperature": 22.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.3,
+      "maximumTemperature": 30.3,
+      "minimumTemperature": 21.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4108957",
       "municipalityName": "Guamiranga",
-      "currentTemperature": 18.1,
-      "maximumTemperature": 25.7,
-      "minimumTemperature": 17.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.4,
+      "maximumTemperature": 28.7,
+      "minimumTemperature": 17.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4109005",
       "municipalityName": "Guapirama",
-      "currentTemperature": 20.4,
-      "maximumTemperature": 28.6,
-      "minimumTemperature": 19.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.5,
+      "maximumTemperature": 30.6,
+      "minimumTemperature": 20.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4109104",
       "municipalityName": "Guaporema",
-      "currentTemperature": 22.6,
-      "maximumTemperature": 28.0,
-      "minimumTemperature": 22.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.7,
+      "maximumTemperature": 30.7,
+      "minimumTemperature": 21.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4109203",
       "municipalityName": "Guaraci",
-      "currentTemperature": 22.9,
-      "maximumTemperature": 30.6,
-      "minimumTemperature": 22.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.3,
+      "maximumTemperature": 32.0,
+      "minimumTemperature": 22.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4109302",
       "municipalityName": "Guaraniaçu",
-      "currentTemperature": 19.5,
-      "maximumTemperature": 24.7,
-      "minimumTemperature": 19.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.8,
+      "maximumTemperature": 28.0,
+      "minimumTemperature": 18.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4109401",
       "municipalityName": "Guarapuava",
-      "currentTemperature": 17.3,
-      "maximumTemperature": 25.8,
-      "minimumTemperature": 17.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 24.3,
+      "maximumTemperature": 27.5,
+      "minimumTemperature": 16.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4109500",
       "municipalityName": "Guaraqueçaba",
-      "currentTemperature": 18.3,
-      "maximumTemperature": 28.5,
-      "minimumTemperature": 18.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.2,
+      "maximumTemperature": 29.4,
+      "minimumTemperature": 17.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4109609",
       "municipalityName": "Guaratuba",
-      "currentTemperature": 19.4,
-      "maximumTemperature": 28.4,
-      "minimumTemperature": 18.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.4,
+      "maximumTemperature": 29.3,
+      "minimumTemperature": 19.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4109658",
       "municipalityName": "Honório Serpa",
-      "currentTemperature": 18.8,
-      "maximumTemperature": 26.6,
-      "minimumTemperature": 18.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.0,
+      "maximumTemperature": 29.0,
+      "minimumTemperature": 18.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4109708",
       "municipalityName": "Ibaiti",
-      "currentTemperature": 20.1,
-      "maximumTemperature": 27.0,
-      "minimumTemperature": 19.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.3,
+      "maximumTemperature": 29.4,
+      "minimumTemperature": 20.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4109757",
       "municipalityName": "Ibema",
-      "currentTemperature": 18.9,
-      "maximumTemperature": 25.2,
-      "minimumTemperature": 18.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.0,
+      "maximumTemperature": 28.0,
+      "minimumTemperature": 18.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4109807",
       "municipalityName": "Ibiporã",
-      "currentTemperature": 22.2,
-      "maximumTemperature": 29.2,
-      "minimumTemperature": 21.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.3,
+      "maximumTemperature": 31.9,
+      "minimumTemperature": 21.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4109906",
       "municipalityName": "Icaraíma",
-      "currentTemperature": 22.6,
-      "maximumTemperature": 27.7,
-      "minimumTemperature": 22.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.5,
+      "maximumTemperature": 30.5,
+      "minimumTemperature": 20.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4110003",
       "municipalityName": "Iguaraçu",
-      "currentTemperature": 22.7,
-      "maximumTemperature": 29.8,
-      "minimumTemperature": 22.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.1,
+      "maximumTemperature": 32.2,
+      "minimumTemperature": 21.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4110052",
       "municipalityName": "Iguatu",
-      "currentTemperature": 20.4,
-      "maximumTemperature": 26.7,
-      "minimumTemperature": 20.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.2,
+      "maximumTemperature": 31.4,
+      "minimumTemperature": 19.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4110078",
       "municipalityName": "Imbaú",
-      "currentTemperature": 18.4,
-      "maximumTemperature": 26.8,
-      "minimumTemperature": 17.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.0,
+      "maximumTemperature": 29.1,
+      "minimumTemperature": 17.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4110102",
       "municipalityName": "Imbituva",
-      "currentTemperature": 17.6,
-      "maximumTemperature": 26.1,
+      "currentTemperature": 28.6,
+      "maximumTemperature": 29.0,
       "minimumTemperature": 17.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4110201",
       "municipalityName": "Inácio Martins",
-      "currentTemperature": 16.0,
-      "maximumTemperature": 24.8,
-      "minimumTemperature": 16.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 24.6,
+      "maximumTemperature": 27.6,
+      "minimumTemperature": 15.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4110300",
       "municipalityName": "Inajá",
-      "currentTemperature": 23.2,
-      "maximumTemperature": 30.0,
-      "minimumTemperature": 22.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.0,
+      "maximumTemperature": 32.2,
+      "minimumTemperature": 22.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4110409",
       "municipalityName": "Indianópolis",
-      "currentTemperature": 21.9,
-      "maximumTemperature": 27.6,
-      "minimumTemperature": 21.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.0,
+      "maximumTemperature": 30.1,
+      "minimumTemperature": 20.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4110508",
       "municipalityName": "Ipiranga",
-      "currentTemperature": 18.0,
-      "maximumTemperature": 26.7,
-      "minimumTemperature": 17.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.5,
+      "maximumTemperature": 29.3,
+      "minimumTemperature": 17.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4110607",
       "municipalityName": "Iporã",
-      "currentTemperature": 22.3,
-      "maximumTemperature": 27.9,
-      "minimumTemperature": 22.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.2,
+      "maximumTemperature": 30.2,
+      "minimumTemperature": 20.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4110656",
       "municipalityName": "Iracema do Oeste",
-      "currentTemperature": 21.1,
-      "maximumTemperature": 26.8,
-      "minimumTemperature": 20.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.5,
+      "maximumTemperature": 30.6,
+      "minimumTemperature": 19.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4110706",
       "municipalityName": "Irati",
-      "currentTemperature": 17.8,
-      "maximumTemperature": 25.9,
-      "minimumTemperature": 17.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 26.3,
+      "maximumTemperature": 29.1,
+      "minimumTemperature": 17.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4110805",
       "municipalityName": "Iretama",
-      "currentTemperature": 20.8,
-      "maximumTemperature": 26.1,
-      "minimumTemperature": 20.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.8,
+      "maximumTemperature": 29.9,
+      "minimumTemperature": 20.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4110904",
       "municipalityName": "Itaguajé",
-      "currentTemperature": 23.0,
-      "maximumTemperature": 30.0,
-      "minimumTemperature": 22.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.4,
+      "maximumTemperature": 31.5,
+      "minimumTemperature": 22.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4110953",
       "municipalityName": "Itaipulândia",
-      "currentTemperature": 23.0,
-      "maximumTemperature": 28.2,
-      "minimumTemperature": 22.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.2,
+      "maximumTemperature": 30.2,
+      "minimumTemperature": 22.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4111001",
       "municipalityName": "Itambaracá",
-      "currentTemperature": 22.0,
-      "maximumTemperature": 31.1,
-      "minimumTemperature": 21.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 32.9,
+      "maximumTemperature": 32.9,
+      "minimumTemperature": 22.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4111100",
       "municipalityName": "Itambé",
-      "currentTemperature": 22.8,
-      "maximumTemperature": 28.5,
-      "minimumTemperature": 22.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.1,
+      "maximumTemperature": 31.6,
+      "minimumTemperature": 21.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4111209",
       "municipalityName": "Itapejara d'Oeste",
-      "currentTemperature": 20.1,
-      "maximumTemperature": 27.4,
-      "minimumTemperature": 19.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.4,
+      "maximumTemperature": 30.4,
+      "minimumTemperature": 18.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4111258",
       "municipalityName": "Itaperuçu",
-      "currentTemperature": 17.7,
-      "maximumTemperature": 27.6,
-      "minimumTemperature": 17.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 25.1,
+      "maximumTemperature": 28.1,
+      "minimumTemperature": 17.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4111308",
       "municipalityName": "Itaúna do Sul",
-      "currentTemperature": 22.9,
-      "maximumTemperature": 29.5,
-      "minimumTemperature": 22.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.3,
+      "maximumTemperature": 31.4,
+      "minimumTemperature": 21.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4111407",
       "municipalityName": "Ivaí",
-      "currentTemperature": 18.0,
-      "maximumTemperature": 26.1,
+      "currentTemperature": 28.5,
+      "maximumTemperature": 28.8,
       "minimumTemperature": 17.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4111506",
       "municipalityName": "Ivaiporã",
-      "currentTemperature": 19.9,
-      "maximumTemperature": 25.5,
-      "minimumTemperature": 19.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.1,
+      "maximumTemperature": 29.2,
+      "minimumTemperature": 19.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4111555",
       "municipalityName": "Ivaté",
-      "currentTemperature": 22.3,
-      "maximumTemperature": 27.4,
-      "minimumTemperature": 22.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.4,
+      "maximumTemperature": 30.4,
+      "minimumTemperature": 20.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4111605",
       "municipalityName": "Ivatuba",
-      "currentTemperature": 22.5,
-      "maximumTemperature": 28.5,
-      "minimumTemperature": 22.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.5,
+      "maximumTemperature": 31.1,
+      "minimumTemperature": 21.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4111704",
       "municipalityName": "Jaboti",
-      "currentTemperature": 19.6,
-      "maximumTemperature": 28.0,
-      "minimumTemperature": 19.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.2,
+      "maximumTemperature": 29.3,
+      "minimumTemperature": 19.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4111803",
       "municipalityName": "Jacarezinho",
-      "currentTemperature": 21.0,
-      "maximumTemperature": 29.4,
-      "minimumTemperature": 20.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.5,
+      "maximumTemperature": 31.6,
+      "minimumTemperature": 21.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4111902",
       "municipalityName": "Jaguapitã",
-      "currentTemperature": 22.0,
-      "maximumTemperature": 29.1,
-      "minimumTemperature": 21.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.7,
+      "maximumTemperature": 31.1,
+      "minimumTemperature": 20.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4112009",
       "municipalityName": "Jaguariaíva",
-      "currentTemperature": 16.7,
-      "maximumTemperature": 25.5,
-      "minimumTemperature": 16.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 24.3,
+      "maximumTemperature": 26.9,
+      "minimumTemperature": 16.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4112108",
       "municipalityName": "Jandaia do Sul",
-      "currentTemperature": 22.2,
-      "maximumTemperature": 27.3,
-      "minimumTemperature": 21.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.6,
+      "maximumTemperature": 29.9,
+      "minimumTemperature": 20.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4112207",
       "municipalityName": "Janiópolis",
-      "currentTemperature": 21.2,
-      "maximumTemperature": 27.4,
-      "minimumTemperature": 21.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.6,
+      "maximumTemperature": 30.7,
+      "minimumTemperature": 20.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4112306",
       "municipalityName": "Japira",
-      "currentTemperature": 19.6,
-      "maximumTemperature": 27.3,
-      "minimumTemperature": 19.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.1,
+      "maximumTemperature": 29.1,
+      "minimumTemperature": 19.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4112405",
       "municipalityName": "Japurá",
-      "currentTemperature": 22.5,
-      "maximumTemperature": 28.6,
-      "minimumTemperature": 22.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.1,
+      "maximumTemperature": 31.3,
+      "minimumTemperature": 20.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4112504",
       "municipalityName": "Jardim Alegre",
-      "currentTemperature": 21.5,
-      "maximumTemperature": 25.6,
-      "minimumTemperature": 21.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.5,
+      "maximumTemperature": 29.5,
+      "minimumTemperature": 20.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4112603",
       "municipalityName": "Jardim Olinda",
-      "currentTemperature": 23.5,
-      "maximumTemperature": 31.0,
-      "minimumTemperature": 23.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.5,
+      "maximumTemperature": 32.9,
+      "minimumTemperature": 22.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4112702",
       "municipalityName": "Jataizinho",
-      "currentTemperature": 22.5,
-      "maximumTemperature": 29.3,
-      "minimumTemperature": 21.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.8,
+      "maximumTemperature": 32.2,
+      "minimumTemperature": 21.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4112751",
       "municipalityName": "Jesuítas",
-      "currentTemperature": 21.2,
-      "maximumTemperature": 26.9,
-      "minimumTemperature": 21.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.1,
+      "maximumTemperature": 30.3,
+      "minimumTemperature": 19.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4112801",
       "municipalityName": "Joaquim Távora",
-      "currentTemperature": 19.3,
-      "maximumTemperature": 28.2,
-      "minimumTemperature": 19.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.0,
+      "maximumTemperature": 29.3,
+      "minimumTemperature": 19.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4112900",
       "municipalityName": "Jundiaí do Sul",
-      "currentTemperature": 19.8,
-      "maximumTemperature": 28.0,
-      "minimumTemperature": 19.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.6,
+      "maximumTemperature": 29.9,
+      "minimumTemperature": 20.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4112959",
       "municipalityName": "Juranda",
-      "currentTemperature": 21.0,
-      "maximumTemperature": 27.2,
-      "minimumTemperature": 20.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.1,
+      "maximumTemperature": 30.7,
+      "minimumTemperature": 20.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4113007",
       "municipalityName": "Jussara",
-      "currentTemperature": 21.4,
-      "maximumTemperature": 27.9,
-      "minimumTemperature": 21.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.7,
+      "maximumTemperature": 30.8,
+      "minimumTemperature": 20.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4113106",
       "municipalityName": "Kaloré",
-      "currentTemperature": 22.1,
-      "maximumTemperature": 27.9,
-      "minimumTemperature": 21.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.8,
+      "maximumTemperature": 31.4,
+      "minimumTemperature": 20.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4113205",
       "municipalityName": "Lapa",
-      "currentTemperature": 17.9,
-      "maximumTemperature": 25.3,
-      "minimumTemperature": 17.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.3,
+      "maximumTemperature": 28.4,
+      "minimumTemperature": 17.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4113254",
       "municipalityName": "Laranjal",
-      "currentTemperature": 20.2,
-      "maximumTemperature": 25.7,
-      "minimumTemperature": 20.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.7,
+      "maximumTemperature": 29.0,
+      "minimumTemperature": 19.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4113304",
       "municipalityName": "Laranjeiras do Sul",
-      "currentTemperature": 19.0,
-      "maximumTemperature": 25.2,
-      "minimumTemperature": 18.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.3,
+      "maximumTemperature": 27.4,
+      "minimumTemperature": 18.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4113403",
       "municipalityName": "Leópolis",
-      "currentTemperature": 22.1,
-      "maximumTemperature": 29.4,
-      "minimumTemperature": 21.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.0,
+      "maximumTemperature": 32.0,
+      "minimumTemperature": 22.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4113429",
       "municipalityName": "Lidianópolis",
-      "currentTemperature": 20.9,
-      "maximumTemperature": 26.3,
-      "minimumTemperature": 20.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.3,
+      "maximumTemperature": 30.7,
+      "minimumTemperature": 20.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4113452",
       "municipalityName": "Lindoeste",
-      "currentTemperature": 20.3,
-      "maximumTemperature": 27.4,
-      "minimumTemperature": 20.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.1,
+      "maximumTemperature": 30.1,
+      "minimumTemperature": 19.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4113502",
       "municipalityName": "Loanda",
-      "currentTemperature": 22.7,
-      "maximumTemperature": 28.5,
-      "minimumTemperature": 22.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.5,
+      "maximumTemperature": 30.5,
+      "minimumTemperature": 21.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4113601",
       "municipalityName": "Lobato",
-      "currentTemperature": 22.4,
-      "maximumTemperature": 29.9,
-      "minimumTemperature": 22.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.6,
+      "maximumTemperature": 31.5,
+      "minimumTemperature": 21.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4113700",
       "municipalityName": "Londrina",
-      "currentTemperature": 21.8,
-      "maximumTemperature": 28.7,
-      "minimumTemperature": 20.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.1,
+      "maximumTemperature": 31.4,
+      "minimumTemperature": 20.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4113734",
       "municipalityName": "Luiziana",
-      "currentTemperature": 19.5,
-      "maximumTemperature": 26.6,
-      "minimumTemperature": 19.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.7,
+      "maximumTemperature": 29.0,
+      "minimumTemperature": 18.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4113759",
       "municipalityName": "Lunardelli",
-      "currentTemperature": 21.5,
-      "maximumTemperature": 26.3,
-      "minimumTemperature": 21.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.6,
+      "maximumTemperature": 30.8,
+      "minimumTemperature": 20.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4113809",
       "municipalityName": "Lupionópolis",
-      "currentTemperature": 23.5,
-      "maximumTemperature": 30.6,
-      "minimumTemperature": 23.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.6,
+      "maximumTemperature": 32.2,
+      "minimumTemperature": 22.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4113908",
       "municipalityName": "Mallet",
-      "currentTemperature": 16.5,
-      "maximumTemperature": 26.4,
-      "minimumTemperature": 16.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 25.7,
+      "maximumTemperature": 29.7,
+      "minimumTemperature": 15.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4114005",
       "municipalityName": "Mamborê",
-      "currentTemperature": 20.6,
-      "maximumTemperature": 26.6,
-      "minimumTemperature": 20.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.6,
+      "maximumTemperature": 28.7,
+      "minimumTemperature": 19.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4114104",
       "municipalityName": "Mandaguaçu",
-      "currentTemperature": 21.8,
-      "maximumTemperature": 28.2,
-      "minimumTemperature": 21.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.2,
+      "maximumTemperature": 30.7,
+      "minimumTemperature": 20.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4114203",
       "municipalityName": "Mandaguari",
-      "currentTemperature": 22.3,
-      "maximumTemperature": 27.5,
-      "minimumTemperature": 21.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.8,
+      "maximumTemperature": 30.6,
+      "minimumTemperature": 20.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4114302",
       "municipalityName": "Mandirituba",
-      "currentTemperature": 17.4,
-      "maximumTemperature": 24.4,
-      "minimumTemperature": 16.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.7,
+      "maximumTemperature": 27.8,
+      "minimumTemperature": 16.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4114351",
       "municipalityName": "Manfrinópolis",
-      "currentTemperature": 18.8,
-      "maximumTemperature": 26.4,
-      "minimumTemperature": 18.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.1,
+      "maximumTemperature": 29.3,
+      "minimumTemperature": 17.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4114401",
       "municipalityName": "Mangueirinha",
-      "currentTemperature": 17.2,
-      "maximumTemperature": 25.2,
-      "minimumTemperature": 16.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.8,
+      "maximumTemperature": 28.0,
+      "minimumTemperature": 15.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4114500",
       "municipalityName": "Manoel Ribas",
-      "currentTemperature": 18.9,
-      "maximumTemperature": 25.4,
-      "minimumTemperature": 18.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.1,
+      "maximumTemperature": 28.3,
+      "minimumTemperature": 18.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4114609",
       "municipalityName": "Marechal Cândido Rondon",
-      "currentTemperature": 21.4,
-      "maximumTemperature": 28.1,
-      "minimumTemperature": 21.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.9,
+      "maximumTemperature": 30.2,
+      "minimumTemperature": 20.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4114708",
       "municipalityName": "Maria Helena",
-      "currentTemperature": 22.1,
-      "maximumTemperature": 27.7,
-      "minimumTemperature": 21.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.0,
+      "maximumTemperature": 30.2,
+      "minimumTemperature": 20.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4114807",
       "municipalityName": "Marialva",
-      "currentTemperature": 22.6,
-      "maximumTemperature": 27.9,
-      "minimumTemperature": 21.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.6,
+      "maximumTemperature": 31.3,
+      "minimumTemperature": 20.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4114906",
       "municipalityName": "Marilândia do Sul",
-      "currentTemperature": 20.4,
-      "maximumTemperature": 26.1,
-      "minimumTemperature": 19.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.1,
+      "maximumTemperature": 29.1,
+      "minimumTemperature": 19.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4115002",
       "municipalityName": "Marilena",
-      "currentTemperature": 23.5,
-      "maximumTemperature": 29.2,
-      "minimumTemperature": 23.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.4,
+      "maximumTemperature": 31.4,
+      "minimumTemperature": 22.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4115101",
       "municipalityName": "Mariluz",
-      "currentTemperature": 21.7,
-      "maximumTemperature": 27.8,
-      "minimumTemperature": 21.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.6,
+      "maximumTemperature": 30.7,
+      "minimumTemperature": 20.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4115200",
       "municipalityName": "Maringá",
-      "currentTemperature": 22.2,
-      "maximumTemperature": 28.4,
-      "minimumTemperature": 21.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.0,
+      "maximumTemperature": 31.1,
+      "minimumTemperature": 20.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4115309",
       "municipalityName": "Mariópolis",
-      "currentTemperature": 18.5,
-      "maximumTemperature": 25.4,
-      "minimumTemperature": 18.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.1,
+      "maximumTemperature": 28.2,
+      "minimumTemperature": 17.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4115358",
       "municipalityName": "Maripá",
-      "currentTemperature": 21.2,
-      "maximumTemperature": 27.2,
-      "minimumTemperature": 21.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.6,
+      "maximumTemperature": 29.9,
+      "minimumTemperature": 19.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4115408",
       "municipalityName": "Marmeleiro",
-      "currentTemperature": 18.5,
-      "maximumTemperature": 26.3,
-      "minimumTemperature": 18.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.3,
+      "maximumTemperature": 29.3,
+      "minimumTemperature": 16.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4115457",
       "municipalityName": "Marquinho",
-      "currentTemperature": 18.8,
-      "maximumTemperature": 25.3,
-      "minimumTemperature": 18.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.6,
+      "maximumTemperature": 27.6,
+      "minimumTemperature": 18.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4115507",
       "municipalityName": "Marumbi",
-      "currentTemperature": 22.0,
-      "maximumTemperature": 27.7,
-      "minimumTemperature": 21.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.5,
+      "maximumTemperature": 31.4,
+      "minimumTemperature": 20.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4115606",
       "municipalityName": "Matelândia",
-      "currentTemperature": 20.2,
-      "maximumTemperature": 27.2,
-      "minimumTemperature": 20.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 32.0,
+      "maximumTemperature": 32.2,
+      "minimumTemperature": 19.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4115705",
       "municipalityName": "Matinhos",
-      "currentTemperature": 20.3,
-      "maximumTemperature": 26.7,
-      "minimumTemperature": 19.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 26.3,
+      "maximumTemperature": 27.1,
+      "minimumTemperature": 20.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4115739",
       "municipalityName": "Mato Rico",
-      "currentTemperature": 19.5,
-      "maximumTemperature": 26.3,
-      "minimumTemperature": 19.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.5,
+      "maximumTemperature": 28.6,
+      "minimumTemperature": 19.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4115754",
       "municipalityName": "Mauá da Serra",
-      "currentTemperature": 19.1,
-      "maximumTemperature": 24.0,
-      "minimumTemperature": 18.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 25.9,
+      "maximumTemperature": 26.1,
+      "minimumTemperature": 17.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4115804",
       "municipalityName": "Medianeira",
-      "currentTemperature": 21.6,
-      "maximumTemperature": 27.8,
-      "minimumTemperature": 21.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.2,
+      "maximumTemperature": 31.4,
+      "minimumTemperature": 20.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4115853",
       "municipalityName": "Mercedes",
-      "currentTemperature": 21.8,
-      "maximumTemperature": 28.6,
-      "minimumTemperature": 21.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.1,
+      "maximumTemperature": 30.2,
+      "minimumTemperature": 20.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4115903",
       "municipalityName": "Mirador",
-      "currentTemperature": 22.6,
-      "maximumTemperature": 28.7,
-      "minimumTemperature": 22.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.8,
+      "maximumTemperature": 30.8,
+      "minimumTemperature": 21.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4116000",
       "municipalityName": "Miraselva",
-      "currentTemperature": 22.1,
-      "maximumTemperature": 29.1,
-      "minimumTemperature": 21.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.0,
+      "maximumTemperature": 31.2,
+      "minimumTemperature": 20.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4116059",
       "municipalityName": "Missal",
-      "currentTemperature": 21.2,
-      "maximumTemperature": 28.8,
-      "minimumTemperature": 21.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.6,
+      "maximumTemperature": 31.6,
+      "minimumTemperature": 20.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4116109",
       "municipalityName": "Moreira Sales",
-      "currentTemperature": 21.7,
-      "maximumTemperature": 27.8,
-      "minimumTemperature": 21.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.2,
+      "maximumTemperature": 31.7,
+      "minimumTemperature": 20.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4116208",
       "municipalityName": "Morretes",
-      "currentTemperature": 20.9,
-      "maximumTemperature": 31.1,
-      "minimumTemperature": 20.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 26.8,
+      "maximumTemperature": 30.3,
+      "minimumTemperature": 21.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4116307",
       "municipalityName": "Munhoz de Melo",
-      "currentTemperature": 22.3,
-      "maximumTemperature": 29.2,
-      "minimumTemperature": 21.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.2,
+      "maximumTemperature": 31.2,
+      "minimumTemperature": 21.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4116406",
       "municipalityName": "Nossa Senhora das Graças",
-      "currentTemperature": 22.7,
-      "maximumTemperature": 30.6,
-      "minimumTemperature": 22.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.6,
+      "maximumTemperature": 31.8,
+      "minimumTemperature": 22.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4116505",
       "municipalityName": "Nova Aliança do Ivaí",
-      "currentTemperature": 22.8,
-      "maximumTemperature": 28.1,
-      "minimumTemperature": 22.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.4,
+      "maximumTemperature": 30.5,
+      "minimumTemperature": 21.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4116604",
       "municipalityName": "Nova América da Colina",
-      "currentTemperature": 21.6,
-      "maximumTemperature": 28.4,
-      "minimumTemperature": 20.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.2,
+      "maximumTemperature": 30.9,
+      "minimumTemperature": 20.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4116703",
       "municipalityName": "Nova Aurora",
-      "currentTemperature": 20.7,
-      "maximumTemperature": 26.8,
-      "minimumTemperature": 20.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.4,
+      "maximumTemperature": 30.8,
+      "minimumTemperature": 19.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4116802",
       "municipalityName": "Nova Cantu",
-      "currentTemperature": 20.7,
-      "maximumTemperature": 27.6,
-      "minimumTemperature": 20.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.8,
+      "maximumTemperature": 30.4,
+      "minimumTemperature": 20.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4116901",
       "municipalityName": "Nova Esperança",
-      "currentTemperature": 22.7,
-      "maximumTemperature": 28.4,
-      "minimumTemperature": 22.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.2,
+      "maximumTemperature": 30.2,
+      "minimumTemperature": 21.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4116950",
       "municipalityName": "Nova Esperança do Sudoeste",
-      "currentTemperature": 19.5,
-      "maximumTemperature": 25.6,
-      "minimumTemperature": 19.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.9,
+      "maximumTemperature": 28.9,
+      "minimumTemperature": 18.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4117008",
       "municipalityName": "Nova Fátima",
-      "currentTemperature": 20.5,
-      "maximumTemperature": 27.6,
-      "minimumTemperature": 19.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.0,
+      "maximumTemperature": 30.2,
+      "minimumTemperature": 19.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4117057",
       "municipalityName": "Nova Laranjeiras",
-      "currentTemperature": 18.0,
-      "maximumTemperature": 24.1,
-      "minimumTemperature": 17.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 26.8,
+      "maximumTemperature": 26.9,
+      "minimumTemperature": 17.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4117107",
       "municipalityName": "Nova Londrina",
-      "currentTemperature": 22.7,
-      "maximumTemperature": 28.8,
-      "minimumTemperature": 22.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.1,
+      "maximumTemperature": 31.1,
+      "minimumTemperature": 21.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4117206",
       "municipalityName": "Nova Olímpia",
-      "currentTemperature": 22.3,
-      "maximumTemperature": 27.9,
-      "minimumTemperature": 22.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.1,
+      "maximumTemperature": 30.2,
+      "minimumTemperature": 20.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4117214",
       "municipalityName": "Nova Santa Bárbara",
-      "currentTemperature": 21.4,
-      "maximumTemperature": 27.1,
-      "minimumTemperature": 20.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.5,
+      "maximumTemperature": 29.5,
+      "minimumTemperature": 20.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4117222",
       "municipalityName": "Nova Santa Rosa",
-      "currentTemperature": 21.4,
-      "maximumTemperature": 27.2,
-      "minimumTemperature": 21.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.3,
+      "maximumTemperature": 29.6,
+      "minimumTemperature": 19.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4117255",
       "municipalityName": "Nova Prata do Iguaçu",
-      "currentTemperature": 21.5,
-      "maximumTemperature": 27.7,
-      "minimumTemperature": 21.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.7,
+      "maximumTemperature": 31.7,
+      "minimumTemperature": 20.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4117271",
       "municipalityName": "Nova Tebas",
-      "currentTemperature": 19.9,
-      "maximumTemperature": 25.4,
-      "minimumTemperature": 19.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.8,
+      "maximumTemperature": 28.8,
+      "minimumTemperature": 19.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4117297",
       "municipalityName": "Novo Itacolomi",
-      "currentTemperature": 21.0,
-      "maximumTemperature": 26.8,
-      "minimumTemperature": 20.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.4,
+      "maximumTemperature": 30.7,
+      "minimumTemperature": 19.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4117305",
       "municipalityName": "Ortigueira",
-      "currentTemperature": 19.5,
-      "maximumTemperature": 25.9,
-      "minimumTemperature": 18.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.8,
+      "maximumTemperature": 28.2,
+      "minimumTemperature": 18.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4117404",
       "municipalityName": "Ourizona",
-      "currentTemperature": 22.8,
-      "maximumTemperature": 28.6,
-      "minimumTemperature": 22.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.0,
+      "maximumTemperature": 31.1,
+      "minimumTemperature": 21.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4117453",
       "municipalityName": "Ouro Verde do Oeste",
-      "currentTemperature": 21.0,
-      "maximumTemperature": 27.6,
-      "minimumTemperature": 20.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.7,
+      "maximumTemperature": 30.0,
+      "minimumTemperature": 20.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4117503",
       "municipalityName": "Paiçandu",
-      "currentTemperature": 22.7,
-      "maximumTemperature": 27.8,
-      "minimumTemperature": 22.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.1,
+      "maximumTemperature": 30.6,
+      "minimumTemperature": 21.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4117602",
       "municipalityName": "Palmas",
-      "currentTemperature": 16.0,
-      "maximumTemperature": 24.3,
-      "minimumTemperature": 15.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 25.4,
+      "maximumTemperature": 25.8,
+      "minimumTemperature": 14.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4117701",
       "municipalityName": "Palmeira",
-      "currentTemperature": 17.7,
-      "maximumTemperature": 25.5,
-      "minimumTemperature": 17.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.3,
+      "maximumTemperature": 28.3,
+      "minimumTemperature": 17.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4117800",
       "municipalityName": "Palmital",
-      "currentTemperature": 19.7,
-      "maximumTemperature": 25.7,
-      "minimumTemperature": 18.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.3,
+      "maximumTemperature": 28.8,
+      "minimumTemperature": 19.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4117909",
       "municipalityName": "Palotina",
-      "currentTemperature": 21.7,
-      "maximumTemperature": 27.7,
-      "minimumTemperature": 21.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.8,
+      "maximumTemperature": 30.0,
+      "minimumTemperature": 20.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4118006",
       "municipalityName": "Paraíso do Norte",
-      "currentTemperature": 22.8,
-      "maximumTemperature": 28.3,
-      "minimumTemperature": 22.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.9,
+      "maximumTemperature": 31.0,
+      "minimumTemperature": 21.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4118105",
       "municipalityName": "Paranacity",
-      "currentTemperature": 23.1,
-      "maximumTemperature": 30.7,
-      "minimumTemperature": 22.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.6,
+      "maximumTemperature": 32.4,
+      "minimumTemperature": 22.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4118204",
       "municipalityName": "Paranaguá",
-      "currentTemperature": 20.6,
-      "maximumTemperature": 27.6,
-      "minimumTemperature": 20.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 26.8,
+      "maximumTemperature": 28.2,
+      "minimumTemperature": 21.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4118303",
       "municipalityName": "Paranapoema",
-      "currentTemperature": 23.5,
-      "maximumTemperature": 31.1,
-      "minimumTemperature": 23.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.9,
+      "maximumTemperature": 33.2,
+      "minimumTemperature": 22.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4118402",
       "municipalityName": "Paranavaí",
-      "currentTemperature": 22.5,
-      "maximumTemperature": 27.9,
-      "minimumTemperature": 22.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.0,
+      "maximumTemperature": 30.2,
+      "minimumTemperature": 21.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4118451",
       "municipalityName": "Pato Bragado",
-      "currentTemperature": 22.4,
-      "maximumTemperature": 28.7,
-      "minimumTemperature": 21.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.1,
+      "maximumTemperature": 30.8,
+      "minimumTemperature": 21.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4118501",
       "municipalityName": "Pato Branco",
-      "currentTemperature": 19.2,
-      "maximumTemperature": 26.1,
-      "minimumTemperature": 18.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.8,
+      "maximumTemperature": 28.8,
+      "minimumTemperature": 17.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4118600",
       "municipalityName": "Paula Freitas",
-      "currentTemperature": 17.2,
-      "maximumTemperature": 26.7,
-      "minimumTemperature": 17.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 25.7,
+      "maximumTemperature": 30.1,
+      "minimumTemperature": 16.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4118709",
       "municipalityName": "Paulo Frontin",
-      "currentTemperature": 17.6,
-      "maximumTemperature": 26.8,
-      "minimumTemperature": 17.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 26.1,
+      "maximumTemperature": 29.9,
+      "minimumTemperature": 16.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4118808",
       "municipalityName": "Peabiru",
-      "currentTemperature": 20.9,
-      "maximumTemperature": 27.1,
-      "minimumTemperature": 20.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.0,
+      "maximumTemperature": 30.3,
+      "minimumTemperature": 19.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4118857",
       "municipalityName": "Perobal",
-      "currentTemperature": 22.2,
-      "maximumTemperature": 27.6,
-      "minimumTemperature": 21.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.5,
+      "maximumTemperature": 29.6,
+      "minimumTemperature": 20.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4118907",
       "municipalityName": "Pérola",
-      "currentTemperature": 22.3,
-      "maximumTemperature": 27.8,
-      "minimumTemperature": 22.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.9,
+      "maximumTemperature": 29.9,
+      "minimumTemperature": 20.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4119004",
       "municipalityName": "Pérola d'Oeste",
-      "currentTemperature": 20.6,
-      "maximumTemperature": 27.1,
-      "minimumTemperature": 20.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.7,
+      "maximumTemperature": 31.7,
+      "minimumTemperature": 19.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4119103",
       "municipalityName": "Piên",
-      "currentTemperature": 17.9,
-      "maximumTemperature": 25.4,
+      "currentTemperature": 25.2,
+      "maximumTemperature": 28.5,
       "minimumTemperature": 17.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4119152",
       "municipalityName": "Pinhais",
-      "currentTemperature": 17.3,
-      "maximumTemperature": 25.8,
-      "minimumTemperature": 16.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 21.5,
+      "maximumTemperature": 28.0,
+      "minimumTemperature": 17.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4119202",
       "municipalityName": "Pinhalão",
-      "currentTemperature": 17.9,
-      "maximumTemperature": 26.6,
-      "minimumTemperature": 17.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.5,
+      "maximumTemperature": 28.0,
+      "minimumTemperature": 18.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4119251",
       "municipalityName": "Pinhal de São Bento",
-      "currentTemperature": 19.3,
-      "maximumTemperature": 27.6,
-      "minimumTemperature": 19.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.2,
+      "maximumTemperature": 30.3,
+      "minimumTemperature": 18.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4119301",
       "municipalityName": "Pinhão",
-      "currentTemperature": 16.9,
-      "maximumTemperature": 24.9,
-      "minimumTemperature": 16.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 26.2,
+      "maximumTemperature": 26.8,
+      "minimumTemperature": 16.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4119400",
       "municipalityName": "Piraí do Sul",
-      "currentTemperature": 16.9,
-      "maximumTemperature": 24.8,
-      "minimumTemperature": 16.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 26.4,
+      "maximumTemperature": 26.4,
+      "minimumTemperature": 17.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4119509",
       "municipalityName": "Piraquara",
-      "currentTemperature": 17.2,
-      "maximumTemperature": 25.4,
-      "minimumTemperature": 16.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 20.6,
+      "maximumTemperature": 27.5,
+      "minimumTemperature": 17.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4119608",
       "municipalityName": "Pitanga",
-      "currentTemperature": 17.7,
-      "maximumTemperature": 24.4,
-      "minimumTemperature": 17.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 26.7,
+      "maximumTemperature": 27.1,
+      "minimumTemperature": 17.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4119657",
       "municipalityName": "Pitangueiras",
-      "currentTemperature": 21.6,
-      "maximumTemperature": 27.8,
-      "minimumTemperature": 21.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.3,
+      "maximumTemperature": 30.1,
+      "minimumTemperature": 20.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4119707",
       "municipalityName": "Planaltina do Paraná",
-      "currentTemperature": 22.8,
-      "maximumTemperature": 28.7,
-      "minimumTemperature": 22.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.7,
+      "maximumTemperature": 30.8,
+      "minimumTemperature": 21.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4119806",
       "municipalityName": "Planalto",
-      "currentTemperature": 20.7,
-      "maximumTemperature": 27.6,
-      "minimumTemperature": 20.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 32.1,
+      "maximumTemperature": 32.1,
+      "minimumTemperature": 19.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4119905",
       "municipalityName": "Ponta Grossa",
-      "currentTemperature": 17.7,
-      "maximumTemperature": 26.4,
+      "currentTemperature": 28.6,
+      "maximumTemperature": 28.6,
       "minimumTemperature": 17.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4119954",
       "municipalityName": "Pontal do Paraná",
-      "currentTemperature": 19.9,
-      "maximumTemperature": 30.0,
-      "minimumTemperature": 19.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.8,
+      "maximumTemperature": 29.6,
+      "minimumTemperature": 20.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4120002",
       "municipalityName": "Porecatu",
-      "currentTemperature": 23.8,
-      "maximumTemperature": 30.7,
-      "minimumTemperature": 23.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.1,
+      "maximumTemperature": 31.7,
+      "minimumTemperature": 22.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4120101",
       "municipalityName": "Porto Amazonas",
-      "currentTemperature": 18.1,
-      "maximumTemperature": 26.3,
+      "currentTemperature": 28.7,
+      "maximumTemperature": 28.7,
       "minimumTemperature": 17.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4120150",
       "municipalityName": "Porto Barreiro",
-      "currentTemperature": 19.1,
-      "maximumTemperature": 28.1,
-      "minimumTemperature": 19.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.0,
+      "maximumTemperature": 30.1,
+      "minimumTemperature": 18.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4120200",
       "municipalityName": "Porto Rico",
-      "currentTemperature": 23.2,
-      "maximumTemperature": 29.0,
-      "minimumTemperature": 23.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.8,
+      "maximumTemperature": 31.8,
+      "minimumTemperature": 22.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4120309",
       "municipalityName": "Porto Vitória",
-      "currentTemperature": 17.2,
-      "maximumTemperature": 26.2,
-      "minimumTemperature": 17.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.1,
+      "maximumTemperature": 29.2,
+      "minimumTemperature": 16.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4120333",
       "municipalityName": "Prado Ferreira",
-      "currentTemperature": 22.2,
-      "maximumTemperature": 29.0,
-      "minimumTemperature": 21.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.8,
+      "maximumTemperature": 31.1,
+      "minimumTemperature": 20.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4120358",
       "municipalityName": "Pranchita",
-      "currentTemperature": 20.1,
-      "maximumTemperature": 27.1,
-      "minimumTemperature": 19.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.3,
+      "maximumTemperature": 30.3,
+      "minimumTemperature": 18.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4120408",
       "municipalityName": "Presidente Castelo Branco",
-      "currentTemperature": 22.0,
-      "maximumTemperature": 28.3,
-      "minimumTemperature": 21.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.2,
+      "maximumTemperature": 30.2,
+      "minimumTemperature": 20.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4120507",
       "municipalityName": "Primeiro de Maio",
-      "currentTemperature": 23.3,
-      "maximumTemperature": 29.4,
-      "minimumTemperature": 22.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.1,
+      "maximumTemperature": 31.0,
+      "minimumTemperature": 22.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4120606",
       "municipalityName": "Prudentópolis",
-      "currentTemperature": 18.4,
-      "maximumTemperature": 26.3,
-      "minimumTemperature": 17.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.0,
+      "maximumTemperature": 28.9,
+      "minimumTemperature": 17.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4120655",
       "municipalityName": "Quarto Centenário",
-      "currentTemperature": 21.8,
-      "maximumTemperature": 28.0,
-      "minimumTemperature": 21.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.7,
+      "maximumTemperature": 31.4,
+      "minimumTemperature": 20.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4120705",
       "municipalityName": "Quatiguá",
-      "currentTemperature": 19.8,
-      "maximumTemperature": 27.8,
-      "minimumTemperature": 19.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.5,
+      "maximumTemperature": 29.5,
+      "minimumTemperature": 19.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4120804",
       "municipalityName": "Quatro Barras",
-      "currentTemperature": 16.8,
-      "maximumTemperature": 26.9,
-      "minimumTemperature": 16.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 22.1,
+      "maximumTemperature": 27.0,
+      "minimumTemperature": 16.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4120853",
       "municipalityName": "Quatro Pontes",
-      "currentTemperature": 21.3,
-      "maximumTemperature": 27.3,
-      "minimumTemperature": 21.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.4,
+      "maximumTemperature": 29.7,
+      "minimumTemperature": 20.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4120903",
       "municipalityName": "Quedas do Iguaçu",
-      "currentTemperature": 20.0,
-      "maximumTemperature": 27.5,
-      "minimumTemperature": 19.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.5,
+      "maximumTemperature": 30.5,
+      "minimumTemperature": 19.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4121000",
       "municipalityName": "Querência do Norte",
-      "currentTemperature": 23.3,
-      "maximumTemperature": 27.9,
-      "minimumTemperature": 23.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.5,
+      "maximumTemperature": 31.5,
+      "minimumTemperature": 21.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4121109",
       "municipalityName": "Quinta do Sol",
-      "currentTemperature": 21.6,
-      "maximumTemperature": 28.2,
-      "minimumTemperature": 21.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.2,
+      "maximumTemperature": 31.3,
+      "minimumTemperature": 20.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4121208",
       "municipalityName": "Quitandinha",
-      "currentTemperature": 18.2,
-      "maximumTemperature": 24.3,
-      "minimumTemperature": 17.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.0,
+      "maximumTemperature": 28.4,
+      "minimumTemperature": 17.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4121257",
       "municipalityName": "Ramilândia",
-      "currentTemperature": 21.3,
-      "maximumTemperature": 27.6,
-      "minimumTemperature": 21.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.9,
+      "maximumTemperature": 31.1,
+      "minimumTemperature": 20.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4121307",
       "municipalityName": "Rancho Alegre",
-      "currentTemperature": 23.0,
-      "maximumTemperature": 29.6,
-      "minimumTemperature": 21.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.2,
+      "maximumTemperature": 31.8,
+      "minimumTemperature": 22.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4121356",
       "municipalityName": "Rancho Alegre D'Oeste",
-      "currentTemperature": 21.3,
-      "maximumTemperature": 27.4,
-      "minimumTemperature": 21.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.8,
+      "maximumTemperature": 30.9,
+      "minimumTemperature": 20.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4121406",
       "municipalityName": "Realeza",
-      "currentTemperature": 20.8,
-      "maximumTemperature": 27.7,
-      "minimumTemperature": 20.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 32.2,
+      "maximumTemperature": 32.2,
+      "minimumTemperature": 19.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4121505",
       "municipalityName": "Rebouças",
-      "currentTemperature": 17.9,
-      "maximumTemperature": 26.2,
-      "minimumTemperature": 17.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.2,
+      "maximumTemperature": 28.9,
+      "minimumTemperature": 17.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4121604",
       "municipalityName": "Renascença",
-      "currentTemperature": 18.6,
-      "maximumTemperature": 26.0,
-      "minimumTemperature": 18.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.0,
+      "maximumTemperature": 29.0,
+      "minimumTemperature": 17.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4121703",
       "municipalityName": "Reserva",
-      "currentTemperature": 18.3,
-      "maximumTemperature": 25.3,
-      "minimumTemperature": 17.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.8,
+      "maximumTemperature": 28.0,
+      "minimumTemperature": 17.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4121752",
       "municipalityName": "Reserva do Iguaçu",
-      "currentTemperature": 17.6,
-      "maximumTemperature": 25.6,
-      "minimumTemperature": 17.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.8,
+      "maximumTemperature": 27.8,
+      "minimumTemperature": 16.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4121802",
       "municipalityName": "Ribeirão Claro",
-      "currentTemperature": 19.1,
-      "maximumTemperature": 27.3,
-      "minimumTemperature": 19.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 24.0,
+      "maximumTemperature": 27.8,
+      "minimumTemperature": 19.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4121901",
       "municipalityName": "Ribeirão do Pinhal",
-      "currentTemperature": 19.9,
-      "maximumTemperature": 28.0,
-      "minimumTemperature": 19.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.7,
+      "maximumTemperature": 29.8,
+      "minimumTemperature": 20.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4122008",
       "municipalityName": "Rio Azul",
-      "currentTemperature": 17.0,
-      "maximumTemperature": 26.1,
-      "minimumTemperature": 17.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 24.5,
+      "maximumTemperature": 28.0,
+      "minimumTemperature": 16.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4122107",
       "municipalityName": "Rio Bom",
-      "currentTemperature": 21.4,
-      "maximumTemperature": 27.2,
-      "minimumTemperature": 20.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.9,
+      "maximumTemperature": 30.6,
+      "minimumTemperature": 20.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4122156",
       "municipalityName": "Rio Bonito do Iguaçu",
-      "currentTemperature": 20.2,
-      "maximumTemperature": 27.4,
-      "minimumTemperature": 20.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.0,
+      "maximumTemperature": 30.0,
+      "minimumTemperature": 19.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4122172",
       "municipalityName": "Rio Branco do Ivaí",
-      "currentTemperature": 19.9,
-      "maximumTemperature": 25.5,
-      "minimumTemperature": 19.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.1,
+      "maximumTemperature": 29.4,
+      "minimumTemperature": 19.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4122206",
       "municipalityName": "Rio Branco do Sul",
-      "currentTemperature": 16.8,
-      "maximumTemperature": 26.1,
-      "minimumTemperature": 16.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 22.9,
+      "maximumTemperature": 28.0,
+      "minimumTemperature": 16.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4122305",
       "municipalityName": "Rio Negro",
-      "currentTemperature": 17.9,
-      "maximumTemperature": 24.5,
-      "minimumTemperature": 17.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.4,
+      "maximumTemperature": 28.4,
+      "minimumTemperature": 17.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4122404",
       "municipalityName": "Rolândia",
-      "currentTemperature": 21.2,
-      "maximumTemperature": 27.4,
-      "minimumTemperature": 20.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 26.8,
+      "maximumTemperature": 29.6,
+      "minimumTemperature": 20.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4122503",
       "municipalityName": "Roncador",
-      "currentTemperature": 19.7,
-      "maximumTemperature": 26.7,
-      "minimumTemperature": 19.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.6,
+      "maximumTemperature": 28.7,
+      "minimumTemperature": 19.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4122602",
       "municipalityName": "Rondon",
-      "currentTemperature": 22.0,
-      "maximumTemperature": 27.2,
-      "minimumTemperature": 21.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.1,
+      "maximumTemperature": 30.2,
+      "minimumTemperature": 20.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4122651",
       "municipalityName": "Rosário do Ivaí",
-      "currentTemperature": 20.0,
-      "maximumTemperature": 27.0,
-      "minimumTemperature": 19.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.2,
+      "maximumTemperature": 29.2,
+      "minimumTemperature": 19.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4122701",
       "municipalityName": "Sabáudia",
-      "currentTemperature": 21.9,
-      "maximumTemperature": 27.9,
-      "minimumTemperature": 21.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.6,
+      "maximumTemperature": 29.9,
+      "minimumTemperature": 20.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4122800",
       "municipalityName": "Salgado Filho",
-      "currentTemperature": 19.2,
-      "maximumTemperature": 27.0,
-      "minimumTemperature": 19.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.7,
+      "maximumTemperature": 30.0,
+      "minimumTemperature": 18.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4122909",
       "municipalityName": "Salto do Itararé",
-      "currentTemperature": 18.7,
-      "maximumTemperature": 28.8,
-      "minimumTemperature": 18.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 26.0,
+      "maximumTemperature": 28.5,
+      "minimumTemperature": 19.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4123006",
       "municipalityName": "Salto do Lontra",
-      "currentTemperature": 20.0,
-      "maximumTemperature": 26.7,
-      "minimumTemperature": 19.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.6,
+      "maximumTemperature": 30.6,
+      "minimumTemperature": 18.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4123105",
       "municipalityName": "Santa Amélia",
-      "currentTemperature": 21.5,
-      "maximumTemperature": 29.0,
-      "minimumTemperature": 20.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.3,
+      "maximumTemperature": 31.4,
+      "minimumTemperature": 20.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4123204",
       "municipalityName": "Santa Cecília do Pavão",
-      "currentTemperature": 22.0,
-      "maximumTemperature": 28.4,
-      "minimumTemperature": 21.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.3,
+      "maximumTemperature": 30.6,
+      "minimumTemperature": 20.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4123303",
       "municipalityName": "Santa Cruz de Monte Castelo",
-      "currentTemperature": 23.0,
-      "maximumTemperature": 28.1,
-      "minimumTemperature": 22.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.0,
+      "maximumTemperature": 31.0,
+      "minimumTemperature": 21.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4123402",
       "municipalityName": "Santa Fé",
-      "currentTemperature": 22.8,
-      "maximumTemperature": 30.7,
-      "minimumTemperature": 22.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.8,
+      "maximumTemperature": 32.2,
+      "minimumTemperature": 22.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4123501",
       "municipalityName": "Santa Helena",
-      "currentTemperature": 21.9,
-      "maximumTemperature": 28.2,
-      "minimumTemperature": 21.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.2,
+      "maximumTemperature": 30.8,
+      "minimumTemperature": 21.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4123600",
       "municipalityName": "Santa Inês",
-      "currentTemperature": 22.8,
-      "maximumTemperature": 30.2,
-      "minimumTemperature": 22.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.7,
+      "maximumTemperature": 32.2,
+      "minimumTemperature": 22.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4123709",
       "municipalityName": "Santa Isabel do Ivaí",
-      "currentTemperature": 23.2,
-      "maximumTemperature": 28.3,
-      "minimumTemperature": 23.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.8,
+      "maximumTemperature": 30.9,
+      "minimumTemperature": 21.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4123808",
       "municipalityName": "Santa Izabel do Oeste",
-      "currentTemperature": 20.2,
-      "maximumTemperature": 26.9,
-      "minimumTemperature": 20.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.1,
+      "maximumTemperature": 31.1,
+      "minimumTemperature": 19.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4123824",
       "municipalityName": "Santa Lúcia",
-      "currentTemperature": 20.6,
-      "maximumTemperature": 28.4,
-      "minimumTemperature": 20.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.6,
+      "maximumTemperature": 31.6,
+      "minimumTemperature": 19.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4123857",
       "municipalityName": "Santa Maria do Oeste",
-      "currentTemperature": 18.4,
-      "maximumTemperature": 25.8,
+      "currentTemperature": 27.5,
+      "maximumTemperature": 27.6,
       "minimumTemperature": 18.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4123907",
       "municipalityName": "Santa Mariana",
-      "currentTemperature": 21.5,
-      "maximumTemperature": 29.5,
-      "minimumTemperature": 20.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 32.1,
+      "maximumTemperature": 32.5,
+      "minimumTemperature": 21.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4123956",
       "municipalityName": "Santa Mônica",
-      "currentTemperature": 22.9,
-      "maximumTemperature": 28.8,
-      "minimumTemperature": 22.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.9,
+      "maximumTemperature": 30.9,
+      "minimumTemperature": 21.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4124004",
       "municipalityName": "Santana do Itararé",
-      "currentTemperature": 18.8,
-      "maximumTemperature": 28.7,
-      "minimumTemperature": 18.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 26.3,
+      "maximumTemperature": 28.5,
+      "minimumTemperature": 19.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4124020",
       "municipalityName": "Santa Tereza do Oeste",
-      "currentTemperature": 20.2,
-      "maximumTemperature": 26.1,
-      "minimumTemperature": 20.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.0,
+      "maximumTemperature": 29.3,
+      "minimumTemperature": 19.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4124053",
       "municipalityName": "Santa Terezinha de Itaipu",
-      "currentTemperature": 22.0,
-      "maximumTemperature": 27.2,
-      "minimumTemperature": 21.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.6,
+      "maximumTemperature": 29.9,
+      "minimumTemperature": 21.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4124103",
       "municipalityName": "Santo Antônio da Platina",
-      "currentTemperature": 20.8,
-      "maximumTemperature": 29.5,
-      "minimumTemperature": 20.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.3,
+      "maximumTemperature": 31.3,
+      "minimumTemperature": 20.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4124202",
       "municipalityName": "Santo Antônio do Caiuá",
-      "currentTemperature": 22.9,
-      "maximumTemperature": 29.7,
-      "minimumTemperature": 22.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.8,
+      "maximumTemperature": 31.9,
+      "minimumTemperature": 21.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4124301",
       "municipalityName": "Santo Antônio do Paraíso",
-      "currentTemperature": 20.3,
-      "maximumTemperature": 26.5,
-      "minimumTemperature": 19.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.6,
+      "maximumTemperature": 28.7,
+      "minimumTemperature": 19.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4124400",
       "municipalityName": "Santo Antônio do Sudoeste",
-      "currentTemperature": 19.3,
-      "maximumTemperature": 27.0,
-      "minimumTemperature": 19.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.0,
+      "maximumTemperature": 30.0,
+      "minimumTemperature": 18.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4124509",
       "municipalityName": "Santo Inácio",
-      "currentTemperature": 23.2,
-      "maximumTemperature": 30.0,
-      "minimumTemperature": 22.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.7,
+      "maximumTemperature": 31.7,
+      "minimumTemperature": 22.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4124608",
       "municipalityName": "São Carlos do Ivaí",
-      "currentTemperature": 22.9,
-      "maximumTemperature": 28.6,
-      "minimumTemperature": 22.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.1,
+      "maximumTemperature": 31.5,
+      "minimumTemperature": 21.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4124707",
       "municipalityName": "São Jerônimo da Serra",
-      "currentTemperature": 20.0,
-      "maximumTemperature": 24.9,
-      "minimumTemperature": 19.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.1,
+      "maximumTemperature": 27.2,
+      "minimumTemperature": 18.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4124806",
       "municipalityName": "São João",
-      "currentTemperature": 19.5,
-      "maximumTemperature": 26.9,
-      "minimumTemperature": 19.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.0,
+      "maximumTemperature": 30.1,
+      "minimumTemperature": 18.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4124905",
       "municipalityName": "São João do Caiuá",
-      "currentTemperature": 22.8,
-      "maximumTemperature": 29.2,
-      "minimumTemperature": 22.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.5,
+      "maximumTemperature": 31.4,
+      "minimumTemperature": 21.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4125001",
       "municipalityName": "São João do Ivaí",
-      "currentTemperature": 21.9,
-      "maximumTemperature": 26.6,
-      "minimumTemperature": 21.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.9,
+      "maximumTemperature": 31.1,
+      "minimumTemperature": 20.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4125100",
       "municipalityName": "São João do Triunfo",
-      "currentTemperature": 17.7,
-      "maximumTemperature": 25.9,
+      "currentTemperature": 28.7,
+      "maximumTemperature": 29.2,
       "minimumTemperature": 17.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4125209",
       "municipalityName": "São Jorge d'Oeste",
-      "currentTemperature": 20.2,
-      "maximumTemperature": 27.7,
-      "minimumTemperature": 20.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.2,
+      "maximumTemperature": 31.2,
+      "minimumTemperature": 19.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4125308",
       "municipalityName": "São Jorge do Ivaí",
-      "currentTemperature": 23.0,
-      "maximumTemperature": 29.1,
-      "minimumTemperature": 22.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.6,
+      "maximumTemperature": 31.7,
+      "minimumTemperature": 21.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4125357",
       "municipalityName": "São Jorge do Patrocínio",
-      "currentTemperature": 23.1,
-      "maximumTemperature": 28.2,
-      "minimumTemperature": 22.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.7,
+      "maximumTemperature": 30.4,
+      "minimumTemperature": 21.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4125407",
       "municipalityName": "São José da Boa Vista",
-      "currentTemperature": 18.1,
-      "maximumTemperature": 28.0,
-      "minimumTemperature": 17.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.5,
+      "maximumTemperature": 29.0,
+      "minimumTemperature": 19.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4125456",
       "municipalityName": "São José das Palmeiras",
-      "currentTemperature": 21.2,
-      "maximumTemperature": 28.3,
-      "minimumTemperature": 21.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.6,
+      "maximumTemperature": 31.7,
+      "minimumTemperature": 20.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4125506",
       "municipalityName": "São José dos Pinhais",
-      "currentTemperature": 17.1,
-      "maximumTemperature": 24.6,
-      "minimumTemperature": 16.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 22.5,
+      "maximumTemperature": 27.0,
+      "minimumTemperature": 17.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4125555",
       "municipalityName": "São Manoel do Paraná",
-      "currentTemperature": 22.7,
-      "maximumTemperature": 28.2,
-      "minimumTemperature": 22.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.2,
+      "maximumTemperature": 31.3,
+      "minimumTemperature": 20.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4125605",
       "municipalityName": "São Mateus do Sul",
-      "currentTemperature": 18.0,
-      "maximumTemperature": 26.2,
-      "minimumTemperature": 17.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.0,
+      "maximumTemperature": 29.6,
+      "minimumTemperature": 17.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4125704",
       "municipalityName": "São Miguel do Iguaçu",
-      "currentTemperature": 21.2,
-      "maximumTemperature": 27.5,
-      "minimumTemperature": 21.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.5,
+      "maximumTemperature": 30.9,
+      "minimumTemperature": 20.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4125753",
       "municipalityName": "São Pedro do Iguaçu",
-      "currentTemperature": 20.7,
-      "maximumTemperature": 27.7,
-      "minimumTemperature": 20.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.2,
+      "maximumTemperature": 30.3,
+      "minimumTemperature": 20.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4125803",
       "municipalityName": "São Pedro do Ivaí",
-      "currentTemperature": 22.3,
-      "maximumTemperature": 28.1,
-      "minimumTemperature": 21.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.8,
+      "maximumTemperature": 31.7,
+      "minimumTemperature": 21.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4125902",
       "municipalityName": "São Pedro do Paraná",
-      "currentTemperature": 23.2,
-      "maximumTemperature": 28.8,
-      "minimumTemperature": 23.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.8,
+      "maximumTemperature": 30.9,
+      "minimumTemperature": 21.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4126009",
       "municipalityName": "São Sebastião da Amoreira",
-      "currentTemperature": 21.2,
-      "maximumTemperature": 27.9,
-      "minimumTemperature": 20.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.8,
+      "maximumTemperature": 30.3,
+      "minimumTemperature": 19.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4126108",
       "municipalityName": "São Tomé",
-      "currentTemperature": 22.2,
-      "maximumTemperature": 28.0,
-      "minimumTemperature": 21.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.4,
+      "maximumTemperature": 30.7,
+      "minimumTemperature": 20.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4126207",
       "municipalityName": "Sapopema",
-      "currentTemperature": 19.4,
-      "maximumTemperature": 25.8,
-      "minimumTemperature": 18.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.4,
+      "maximumTemperature": 28.4,
+      "minimumTemperature": 18.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4126256",
       "municipalityName": "Sarandi",
-      "currentTemperature": 22.8,
-      "maximumTemperature": 28.6,
-      "minimumTemperature": 22.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.3,
+      "maximumTemperature": 31.9,
+      "minimumTemperature": 21.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4126272",
       "municipalityName": "Saudade do Iguaçu",
-      "currentTemperature": 20.0,
-      "maximumTemperature": 27.2,
-      "minimumTemperature": 19.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.1,
+      "maximumTemperature": 30.2,
+      "minimumTemperature": 19.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4126306",
       "municipalityName": "Sengés",
-      "currentTemperature": 16.7,
-      "maximumTemperature": 25.5,
-      "minimumTemperature": 16.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 22.9,
+      "maximumTemperature": 26.3,
+      "minimumTemperature": 16.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4126355",
       "municipalityName": "Serranópolis do Iguaçu",
-      "currentTemperature": 20.6,
-      "maximumTemperature": 26.8,
-      "minimumTemperature": 20.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 32.4,
+      "maximumTemperature": 32.5,
+      "minimumTemperature": 18.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4126405",
       "municipalityName": "Sertaneja",
-      "currentTemperature": 23.4,
-      "maximumTemperature": 29.1,
-      "minimumTemperature": 22.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.9,
+      "maximumTemperature": 30.9,
+      "minimumTemperature": 22.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4126504",
       "municipalityName": "Sertanópolis",
-      "currentTemperature": 22.6,
-      "maximumTemperature": 29.2,
-      "minimumTemperature": 21.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.9,
+      "maximumTemperature": 30.7,
+      "minimumTemperature": 21.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4126603",
       "municipalityName": "Siqueira Campos",
-      "currentTemperature": 18.4,
-      "maximumTemperature": 28.0,
-      "minimumTemperature": 18.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 26.7,
+      "maximumTemperature": 28.3,
+      "minimumTemperature": 18.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4126652",
       "municipalityName": "Sulina",
-      "currentTemperature": 20.6,
-      "maximumTemperature": 27.8,
-      "minimumTemperature": 20.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.0,
+      "maximumTemperature": 31.1,
+      "minimumTemperature": 19.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4126678",
       "municipalityName": "Tamarana",
-      "currentTemperature": 19.5,
-      "maximumTemperature": 25.8,
-      "minimumTemperature": 18.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.4,
+      "maximumTemperature": 27.4,
+      "minimumTemperature": 18.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4126702",
       "municipalityName": "Tamboara",
-      "currentTemperature": 22.8,
-      "maximumTemperature": 28.0,
-      "minimumTemperature": 22.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.6,
+      "maximumTemperature": 30.8,
+      "minimumTemperature": 21.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4126801",
       "municipalityName": "Tapejara",
-      "currentTemperature": 22.0,
-      "maximumTemperature": 27.5,
-      "minimumTemperature": 21.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.9,
+      "maximumTemperature": 29.9,
+      "minimumTemperature": 20.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4126900",
       "municipalityName": "Tapira",
-      "currentTemperature": 22.4,
-      "maximumTemperature": 28.6,
-      "minimumTemperature": 22.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.6,
+      "maximumTemperature": 30.6,
+      "minimumTemperature": 20.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4127007",
       "municipalityName": "Teixeira Soares",
-      "currentTemperature": 17.7,
-      "maximumTemperature": 26.0,
-      "minimumTemperature": 17.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.7,
+      "maximumTemperature": 28.9,
+      "minimumTemperature": 17.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4127106",
       "municipalityName": "Telêmaco Borba",
-      "currentTemperature": 19.1,
-      "maximumTemperature": 27.2,
-      "minimumTemperature": 18.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.6,
+      "maximumTemperature": 28.9,
+      "minimumTemperature": 18.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4127205",
       "municipalityName": "Terra Boa",
-      "currentTemperature": 21.3,
-      "maximumTemperature": 27.9,
-      "minimumTemperature": 21.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.4,
+      "maximumTemperature": 30.6,
+      "minimumTemperature": 20.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4127304",
       "municipalityName": "Terra Rica",
-      "currentTemperature": 22.8,
-      "maximumTemperature": 29.2,
-      "minimumTemperature": 22.8,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.0,
+      "maximumTemperature": 31.1,
+      "minimumTemperature": 21.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4127403",
       "municipalityName": "Terra Roxa",
-      "currentTemperature": 21.8,
-      "maximumTemperature": 28.0,
-      "minimumTemperature": 21.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.7,
+      "maximumTemperature": 29.9,
+      "minimumTemperature": 20.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4127502",
       "municipalityName": "Tibagi",
-      "currentTemperature": 18.7,
-      "maximumTemperature": 26.8,
-      "minimumTemperature": 17.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 26.7,
+      "maximumTemperature": 29.3,
+      "minimumTemperature": 17.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4127601",
       "municipalityName": "Tijucas do Sul",
-      "currentTemperature": 16.7,
-      "maximumTemperature": 25.1,
-      "minimumTemperature": 16.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 24.0,
+      "maximumTemperature": 26.2,
+      "minimumTemperature": 16.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4127700",
       "municipalityName": "Toledo",
-      "currentTemperature": 20.8,
-      "maximumTemperature": 26.9,
-      "minimumTemperature": 20.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.3,
+      "maximumTemperature": 29.5,
+      "minimumTemperature": 19.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4127809",
       "municipalityName": "Tomazina",
-      "currentTemperature": 19.7,
-      "maximumTemperature": 28.2,
-      "minimumTemperature": 19.3,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.3,
+      "maximumTemperature": 29.5,
+      "minimumTemperature": 19.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4127858",
       "municipalityName": "Três Barras do Paraná",
-      "currentTemperature": 20.3,
-      "maximumTemperature": 28.2,
-      "minimumTemperature": 20.0,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.3,
+      "maximumTemperature": 31.4,
+      "minimumTemperature": 19.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4127882",
       "municipalityName": "Tunas do Paraná",
-      "currentTemperature": 16.9,
+      "currentTemperature": 23.1,
       "maximumTemperature": 27.2,
       "minimumTemperature": 16.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4127908",
       "municipalityName": "Tuneiras do Oeste",
-      "currentTemperature": 21.7,
-      "maximumTemperature": 27.7,
-      "minimumTemperature": 21.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.3,
+      "maximumTemperature": 31.1,
+      "minimumTemperature": 20.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4127957",
       "municipalityName": "Tupãssi",
-      "currentTemperature": 20.6,
-      "maximumTemperature": 26.6,
-      "minimumTemperature": 20.5,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.3,
+      "maximumTemperature": 29.5,
+      "minimumTemperature": 19.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4127965",
       "municipalityName": "Turvo",
-      "currentTemperature": 17.5,
-      "maximumTemperature": 25.1,
-      "minimumTemperature": 17.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.2,
+      "maximumTemperature": 27.5,
+      "minimumTemperature": 16.9,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4128005",
       "municipalityName": "Ubiratã",
-      "currentTemperature": 21.5,
-      "maximumTemperature": 27.4,
-      "minimumTemperature": 20.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 31.1,
+      "maximumTemperature": 31.3,
+      "minimumTemperature": 20.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4128104",
       "municipalityName": "Umuarama",
-      "currentTemperature": 22.2,
-      "maximumTemperature": 27.3,
-      "minimumTemperature": 21.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.9,
+      "maximumTemperature": 30.0,
+      "minimumTemperature": 20.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4128203",
       "municipalityName": "União da Vitória",
-      "currentTemperature": 16.3,
-      "maximumTemperature": 25.9,
-      "minimumTemperature": 16.2,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.2,
+      "maximumTemperature": 29.4,
+      "minimumTemperature": 15.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4128302",
       "municipalityName": "Uniflor",
-      "currentTemperature": 22.4,
-      "maximumTemperature": 29.6,
-      "minimumTemperature": 22.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.2,
+      "maximumTemperature": 31.4,
+      "minimumTemperature": 21.4,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4128401",
       "municipalityName": "Uraí",
-      "currentTemperature": 22.6,
-      "maximumTemperature": 29.5,
+      "currentTemperature": 30.4,
+      "maximumTemperature": 32.1,
       "minimumTemperature": 21.6,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4128500",
       "municipalityName": "Wenceslau Braz",
-      "currentTemperature": 18.5,
-      "maximumTemperature": 27.2,
-      "minimumTemperature": 18.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.6,
+      "maximumTemperature": 28.4,
+      "minimumTemperature": 19.0,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4128534",
       "municipalityName": "Ventania",
-      "currentTemperature": 18.0,
-      "maximumTemperature": 25.7,
-      "minimumTemperature": 17.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 27.0,
+      "maximumTemperature": 28.1,
+      "minimumTemperature": 17.6,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4128559",
       "municipalityName": "Vera Cruz do Oeste",
-      "currentTemperature": 20.7,
-      "maximumTemperature": 27.4,
-      "minimumTemperature": 20.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.0,
+      "maximumTemperature": 30.1,
+      "minimumTemperature": 20.1,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4128609",
       "municipalityName": "Verê",
-      "currentTemperature": 19.8,
-      "maximumTemperature": 26.8,
-      "minimumTemperature": 19.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.3,
+      "maximumTemperature": 30.3,
+      "minimumTemperature": 18.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4128625",
       "municipalityName": "Alto Paraíso",
-      "currentTemperature": 22.8,
-      "maximumTemperature": 28.1,
-      "minimumTemperature": 22.7,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 30.6,
+      "maximumTemperature": 30.6,
+      "minimumTemperature": 21.2,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4128633",
       "municipalityName": "Doutor Ulysses",
-      "currentTemperature": 18.2,
-      "maximumTemperature": 29.1,
-      "minimumTemperature": 17.9,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 24.2,
+      "maximumTemperature": 29.0,
+      "minimumTemperature": 17.7,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4128658",
       "municipalityName": "Virmond",
-      "currentTemperature": 18.6,
-      "maximumTemperature": 27.6,
-      "minimumTemperature": 18.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.1,
+      "maximumTemperature": 29.3,
+      "minimumTemperature": 17.8,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4128708",
       "municipalityName": "Vitorino",
-      "currentTemperature": 18.4,
-      "maximumTemperature": 25.5,
-      "minimumTemperature": 18.4,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 28.4,
+      "maximumTemperature": 28.4,
+      "minimumTemperature": 17.5,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     },
     {
       "municipalityId": "4128807",
       "municipalityName": "Xambrê",
-      "currentTemperature": 22.3,
-      "maximumTemperature": 27.5,
-      "minimumTemperature": 22.1,
-      "updatedAt": "2026-11-18T04:00:00-03:00"
+      "currentTemperature": 29.7,
+      "maximumTemperature": 29.9,
+      "minimumTemperature": 20.3,
+      "updatedAt": "2026-11-18T14:45:00-03:00"
     }
   ]
 }
