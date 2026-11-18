@@ -1,0 +1,140 @@
+name: Update Weather Data & Publish
+
+on:
+  schedule:
+    # Frequência configurável: executa a cada 3 horas (minuto 0).
+    # Ajuste a expressão cron conforme necessário (ex.: '0 * * * *' para 1h).
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+    inputs:
+      min_valid_municipalities:
+        description: 'Quantidade mínima de municípios válidos exigida para atualizar o JSON'
+        required: false
+        default: '350'
+        type: string
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pinhal-weather-pipeline
+  cancel-in-progress: false
+
+jobs:
+  collect-and-validate:
+    name: Collect & Validate Meteorological Data
+    runs-on: ubuntu-latest
+    outputs:
+      data_updated: ${{ steps.commit_changes.outputs.updated }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: 'scripts/requirements.txt'
+
+      - name: Install Python dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Execute weather collector
+        id: collector
+        continue-on-error: true
+        run: |
+          python scripts/weather_collector.py \
+            --min-valid "${{ inputs.min_valid_municipalities || '350' }}"
+
+      - name: Record failure and preserve valid dataset on error
+        if: steps.collector.outcome != 'success'
+        run: |
+          echo "### ⚠️ Falha na coleta meteorológica" >> "$GITHUB_STEP_SUMMARY"
+          echo "O script \`weather_collector.py\` retornou erro. A última versão válida de \`public/data/temperatures.json\` foi preservada integralmente." >> "$GITHUB_STEP_SUMMARY"
+          git checkout -- public/data/temperatures.json || true
+          exit 1
+
+      - name: Validate generated JSON integrity
+        run: |
+          python - << 'EOF'
+          import json
+          from pathlib import Path
+
+          path = Path("public/data/temperatures.json")
+          assert path.exists() and path.stat().st_size > 1024, "Arquivo temperatures.json ausente ou vazio"
+
+          payload = json.loads(path.read_text(encoding="utf-8"))
+          meta = payload.get("metadata", {})
+          municipalities = payload.get("municipalities", [])
+
+          assert len(municipalities) == 399, f"Esperados 399 municípios, encontrados {len(municipalities)}"
+          assert meta.get("availableMunicipalities", 0) >= int("${{ inputs.min_valid_municipalities || '350' }}"), (
+              f"Cobertura insuficiente: {meta.get('availableMunicipalities')}"
+          )
+          print(f"Validação concluída com sucesso: {meta['availableMunicipalities']}/399 municípios ({meta['updatedAt']}).")
+          EOF
+
+      - name: Commit and push updated weather data
+        id: commit_changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- public/data/temperatures.json; then
+            echo "Nenhuma alteração nos dados meteorológicos."
+            echo "updated=false" >> "$GITHUB_OUTPUT"
+          else
+            git add public/data/temperatures.json
+            git commit -m "chore(data): update Paraná meteorological temperatures [skip ci]"
+            git push
+            echo "updated=true" >> "$GITHUB_OUTPUT"
+            echo "### ✅ Dados meteorológicos atualizados" >> "$GITHUB_STEP_SUMMARY"
+            echo "O arquivo \`public/data/temperatures.json\` foi validado e publicado no repositório." >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+  build-and-deploy-pages:
+    name: Rebuild & Deploy GitHub Pages
+    needs: collect-and-validate
+    if: needs.collect-and-validate.outputs.data_updated == 'true' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout updated repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Pull latest commit
+        run: git pull --ff-only
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install frontend dependencies
+        run: npm ci
+
+      - name: Build static SPA for GitHub Pages
+        env:
+          VITE_BASE_PATH: /${{ github.event.repository.name }}/
+        run: npm run build
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
