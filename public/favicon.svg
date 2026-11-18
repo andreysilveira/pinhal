@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="pinhal-bg" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#440154" />
+      <stop offset="50%" stop-color="#21918c" />
+      <stop offset="100%" stop-color="#fde725" />
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#0f172a" />
+  <rect x="6" y="6" width="52" height="52" rx="12" stroke="url(#pinhal-bg)" stroke-width="3" />
+  <!-- Stylized Araucaria angustifolia (Pinheiro-do-Paraná) silhouette -->
+  <path d="M32 50V22" stroke="#f8fafc" stroke-width="3.5" stroke-linecap="round" />
+  <path d="M14 23C19 17 25 15 32 15C39 15 45 17 50 23" stroke="#fde725" stroke-width="4" stroke-linecap="round" />
+  <path d="M19 29C23 25 27 24 32 24C37 24 41 25 45 29" stroke="#35b779" stroke-width="3.5" stroke-linecap="round" />
+  <path d="M25 50H39" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" />
+</svg>
