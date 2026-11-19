@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="./public/favicon.svg" alt="Logo do Pinhal" width="76" height="76" />
+<img src="./public/favicon.svg" alt="Pinhal Logo" width="76" height="76" />
 
 # Pinhal
 
-**Mapa meteorológico interativo dos 399 municípios do estado do Paraná, Brasil**
+**Interactive weather map of all 399 municipalities of Paraná, Brazil**
 
 [![Deploy GitHub Pages](https://img.shields.io/github/actions/workflow/status/andreysilveira/pinhal/deploy-pages.yml?label=GitHub%20Pages&logo=github)](https://github.com/andreysilveira/pinhal/actions/workflows/deploy-pages.yml)
-[![Update Weather Data](https://img.shields.io/github/actions/workflow/status/andreysilveira/pinhal/update-weather.yml?label=Coleta%20Meteorol%C3%B3gica&logo=githubactions)](https://github.com/andreysilveira/pinhal/actions/workflows/update-weather.yml)
-[![License: MIT](https://img.shields.io/badge/Licen%C3%A7a-MIT-0f172a.svg)](./LICENSE)
-[![Municípios](https://img.shields.io/badge/Paran%C3%A1-399%20Munic%C3%ADpios-1f9e89.svg)](#10-fontes-dos-dados-e-limitações-documentadas)
+[![Update Weather Data](https://img.shields.io/github/actions/workflow/status/andreysilveira/pinhal/update-weather.yml?label=Weather%20Data%20Collector&logo=githubactions)](https://github.com/andreysilveira/pinhal/actions/workflows/update-weather.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-0f172a.svg)](./LICENSE)
+[![Municipalities](https://img.shields.io/badge/Paran%C3%A1-399%20Municipalities-1f9e89.svg)](#10-data-sources-and-documented-limitations)
 
 [![Vue 3](https://img.shields.io/badge/Vue-3.5-4FC08D?logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-6.0-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -17,120 +17,120 @@
 [![Vite](https://img.shields.io/badge/Vite-8.x-646CFF?logo=vite&logoColor=white)](https://vite.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.x-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![IBGE](https://img.shields.io/badge/Malha_Oficial-IBGE_v3-005CA9)](https://servicodados.ibge.gov.br/)
-[![Open-Meteo](https://img.shields.io/badge/Dados-Open--Meteo_(CC_BY_4.0)-F59E0B)](https://open-meteo.com/)
+[![IBGE](https://img.shields.io/badge/Official_Boundaries-IBGE_v3-005CA9)](https://servicodados.ibge.gov.br/)
+[![Open-Meteo](https://img.shields.io/badge/Data-Open--Meteo_(CC_BY_4.0)-F59E0B)](https://open-meteo.com/)
 
-[Apresentação](#1-apresentação) •
-[Funcionalidades](#3-funcionalidades) •
-[Capturas de Tela](#5-capturas-de-tela) •
-[Instalação](#7-instruções-de-instalação) •
-[Arquitetura](#9-explicação-da-arquitetura) •
-[Fontes de Dados](#10-fontes-dos-dados-e-limitações-documentadas) •
-[Licença](#14-licença)
+[Overview](#1-overview) •
+[Features](#3-features) •
+[Screenshots](#5-screenshots) •
+[Installation](#7-installation) •
+[Architecture](#9-architecture) •
+[Data Sources](#10-data-sources-and-documented-limitations) •
+[License](#14-license)
 
 </div>
 
 ---
 
-![Pinhal — Visão Desktop](./docs/screenshots/pinhal-desktop.png)
+![Pinhal — Desktop View](./docs/screenshots/pinhal-desktop.png)
 
 ---
 
-## 1. Apresentação
+## 1. Overview
 
-**Pinhal** é uma aplicação web cartográfica de código aberto voltada à visualização rápida, responsiva e acessível das condições térmicas dos **399 municípios do estado do Paraná**, desenvolvida com **Vue 3**, **TypeScript** e **OpenLayers**.
+**Pinhal** is an open-source cartographic web application designed for fast, responsive, and accessible visualization of weather conditions across all **399 municipalities of the state of Paraná, Brazil**, built with **Vue 3**, **TypeScript**, and **OpenLayers**.
 
 > [!NOTE]
-> **Implementação independente:** O Pinhal é inspirado funcionalmente na experiência de uso do projeto [Simepar Map](https://github.com/kauevestena/simepar_map) ([aplicação de referência](https://kauevestena.github.io/simepar_map/)), criado por Kauê Vestena. Todo o código-fonte, arquitetura cartográfica em OpenLayers e pipeline de ingestão de dados deste repositório foram desenvolvidos de forma própria e independente, sem reutilização de código ou dados proprietários.
+> **Independent Implementation:** Pinhal is functionally inspired by the user experience of [Simepar Map](https://github.com/kauevestena/simepar_map) ([reference application](https://kauevestena.github.io/simepar_map/)), created by Kauê Vestena. All source code, OpenLayers cartographic architecture, and data ingestion pipelines in this repository were independently designed and developed from scratch, without copying proprietary code or datasets.
 
 ---
 
-## 2. Objetivo do Projeto
+## 2. Project Goal
 
-Disponibilizar uma interface predominantemente cartográfica — limpa, fluida e livre de poluição visual — na qual o mapa seja o elemento central para explorar a distribuição espacial de temperaturas no Paraná, mantendo rigor técnico em projeções geográficas, associação por identificador oficial do IBGE e atualização automatizada.
+Deliver a predominantly cartographic interface — clean, fluid, and free of visual clutter — where the map serves as the central protagonist to explore the spatial distribution of temperatures across Paraná, adhering to rigorous geospatial standards, official IBGE identifiers, and automated data updates.
 
 ---
 
-## 3. Funcionalidades
+## 3. Features
 
-| Recurso | Descrição |
+| Feature | Description |
 | :--- | :--- |
-| **Mapa Interativo do Paraná** | Renderização vetorial dos **399 municípios** com divisões nítidas, zoom suave, movimentação contínua (*pan*) e enquadramento inicial automático adaptado à tela. |
-| **Coroplético Científico Viridis** | Escala contínua perceptualmente uniforme (acessível para daltônicos), recalculada dinamicamente a partir dos valores mínimo e máximo da variável ativa. |
-| **Seleção de Variável Meteorológica** | Alternância instantânea — sem recarregar o mapa ou perder o zoom — entre **Temperatura atual**, **Temperatura máxima** e **Temperatura mínima** (`°C`). |
-| **Hover Cartográfico (Desktop)** | Detecção via `forEachFeatureAtPixel` com destaque temporário em halo duplo, marcador dinâmico na legenda e *tooltip* flutuante próximo ao cursor. |
-| **Interação por Toque (Mobile)** | Seleção por toque com cartão informativo inferior, atualização ao tocar em outro município e fechamento explícito (`×`). |
-| **Busca Acessível por Teclado** | Combobox de busca municipal (`Buscar município...`) com navegação via teclado (`↑`, `↓`, `Enter`, `Esc`), exibindo temperaturas e centralizando o município selecionado. |
-| **Mapas-Base Independentes** | Alternância entre **Mapa Claro** (monocromático de alto contraste derivado do OpenStreetMap) e **OpenStreetMap** colorido padrão. |
-| **Tratamento Transparente de Estados** | Sinalização visual não bloqueante para carregamento inicial, dados atualizados, cobertura parcial, dados desatualizados, modo demonstração ou indisponibilidade. |
+| **Interactive Map of Paraná** | Vector rendering of all **399 municipalities** with crisp boundary lines, smooth zoom, continuous panning, and automatic viewport-responsive framing. |
+| **Scientific Viridis Choropleth** | Perceptually uniform continuous color scale (accessible for color-vision deficiencies), dynamically calculated from the minimum and maximum values of the active variable. |
+| **Weather Variable Selector** | Instant switching — without reloading the map or resetting camera zoom/pan — between **Current Temperature**, **Maximum Temperature**, and **Minimum Temperature** (`°C`). |
+| **Cartographic Hover (Desktop)** | Feature detection via OpenLayers `forEachFeatureAtPixel` with temporary dual-stroke halo highlighting, dynamic indicator marker on the legend bar, and edge-aware floating tooltip. |
+| **Touch Interaction (Mobile)** | Touch-to-select interaction with bottom informational card, smooth updates when tapping another municipality, and explicit close button (`×`). |
+| **Accessible Keyboard Search** | Municipality search combobox (`Buscar município...`) with full keyboard navigation (`↑`, `↓`, `Enter`, `Esc`), displaying temperatures and auto-centering selected municipalities without requiring mouse or color perception. |
+| **Independent Basemaps** | Seamless switching between **Light Map** (high-contrast monochromatic basemap derived from OpenStreetMap) and standard full-color **OpenStreetMap**. |
+| **Transparent State Handling** | Non-blocking visual status feedback for initial loading, up-to-date data, partial coverage, stale data, offline demo mode, or connectivity failures. |
 
 ---
 
-## 4. Tecnologias Utilizadas
+## 4. Tech Stack
 
-| Camada | Tecnologias | Papel no Projeto |
+| Layer | Technologies | Role in the Project |
 | :--- | :--- | :--- |
-| **Frontend & UI** | Vue 3 (Composition API), TypeScript 6, Vite 8, Tailwind CSS 4, Lucide Vue Next | Interface reativa minimalista, tipagem estrita sem `any` e controles acessíveis. |
-| **Cartografia & GIS** | OpenLayers (`ol` 10), GeoJSON (`FeatureCollection`), `EPSG:4326` / `EPSG:3857` | Renderização vetorial municipal, camadas de *tiles*, escala gráfica métrica e eventos espaciais. |
-| **Pipeline de Dados** | Python 3.10+, `requests` / `urllib`, APIs IBGE & Open-Meteo | Construção da malha oficial e coleta meteorológica validada com escrita atômica. |
-| **Infraestrutura** | GitHub Actions, GitHub Pages | Coleta periódica agendada via *cron*, validação automatizada e publicação estática. |
+| **Frontend & UI** | Vue 3 (Composition API), TypeScript 6, Vite 8, Tailwind CSS 4, Lucide Vue Next | Minimalist reactive interface, strict typing with zero `any`, and accessible controls. |
+| **Cartography & GIS** | OpenLayers (`ol` 10), GeoJSON (`FeatureCollection`), `EPSG:4326` / `EPSG:3857` | Municipal vector rendering, tile layers, metric scale bar, and spatial event handling. |
+| **Data Pipeline** | Python 3.10+, `requests` / `urllib`, IBGE & Open-Meteo APIs | Official boundary preparation, batch weather collection, and atomic validated writes. |
+| **Infrastructure** | GitHub Actions, GitHub Pages | Scheduled cron-based weather data ingestion, automated validation, and static hosting. |
 
 ---
 
-## 5. Capturas de Tela
+## 5. Screenshots
 
-| Desktop (`1440×900` — Hover sobre município) | Mobile (`390×844` — Layout compacto responsivo) |
+| Desktop (`1440×900` — Municipality Hover) | Mobile (`390×844` — Compact Responsive Layout) |
 | :---: | :---: |
-| ![Visão Desktop](./docs/screenshots/pinhal-desktop.png) | <img src="./docs/screenshots/pinhal-mobile.png" alt="Visão Mobile" width="320" /> |
+| ![Desktop View](./docs/screenshots/pinhal-desktop.png) | <img src="./docs/screenshots/pinhal-mobile.png" alt="Mobile View" width="320" /> |
 
 ---
 
-## 6. Estrutura do Projeto
+## 6. Project Structure
 
 ```text
 pinhal/
 ├── .github/
 │   └── workflows/
-│       ├── deploy-pages.yml              # Build estático e publicação no GitHub Pages
-│       └── update-weather.yml            # Coleta meteorológica periódica + validação + deploy
+│       ├── deploy-pages.yml              # Static build and deployment to GitHub Pages
+│       └── update-weather.yml            # Scheduled weather collection + validation + deploy
 ├── docs/
-│   └── screenshots/                      # Capturas de tela verificadas (desktop e mobile)
+│   └── screenshots/                      # Verified screenshots (desktop and mobile)
 ├── public/
 │   ├── data/
-│   │   ├── municipalities.geojson        # Malha oficial IBGE dos 399 municípios paranaenses
-│   │   └── temperatures.json             # Temperaturas atuais, máximas, mínimas e metadados
-│   └── favicon.svg                       # Ícone vetorial do Pinhal (Araucária + Viridis)
+│   │   ├── municipalities.geojson        # Official IBGE boundaries for 399 Paraná municipalities
+│   │   └── temperatures.json             # Current, max, min temperatures and collection metadata
+│   └── favicon.svg                       # Vector brand icon (Araucaria silhouette + Viridis gradient)
 ├── scripts/
-│   ├── prepare_geodata.py                # Download, enriquecimento e validação da malha IBGE
-│   ├── weather_collector.py              # Coleta em lote Open-Meteo + escrita atômica segura
-│   └── requirements.txt                  # Dependências Python para execução em CI
+│   ├── prepare_geodata.py                # Fetch, enrich, and validate official IBGE mesh GeoJSON
+│   ├── weather_collector.py              # Batch Open-Meteo forecast collection with atomic write
+│   └── requirements.txt                  # Python dependencies for automated CI runs
 ├── src/
 │   ├── components/
 │   │   ├── layout/
-│   │   │   └── AppHeader.vue             # Cabeçalho flutuante, metadados e busca municipal
+│   │   │   └── AppHeader.vue             # Floating header, metadata popover, and search combobox
 │   │   ├── map/
-│   │   │   ├── MapBaseSelector.vue       # Seletor de mapa-base (Claro / OpenStreetMap)
-│   │   │   ├── MapControls.vue           # Zoom in, Zoom out e Reenquadrar Paraná
-│   │   │   ├── MapView.vue               # Container OpenLayers, alertas e sobreposições
-│   │   │   ├── MunicipalityTooltip.vue   # Tooltip flutuante (hover) e cartão fixo (toque/busca)
-│   │   │   └── TemperatureLegend.vue     # Legenda Viridis dinâmica com indicador ativo
+│   │   │   ├── MapBaseSelector.vue       # Basemap selector (Light / OpenStreetMap)
+│   │   │   ├── MapControls.vue           # Zoom in, Zoom out, and Reframe Paraná controls
+│   │   │   ├── MapView.vue               # OpenLayers viewport, state banners, and overlays
+│   │   │   ├── MunicipalityTooltip.vue   # Dynamic tooltip (hover) & bottom card (touch/search)
+│   │   │   └── TemperatureLegend.vue     # Dynamic Viridis legend with live temperature marker
 │   │   └── weather/
-│   │       └── WeatherVariableSelector.vue # Alternador Atual / Máxima / Mínima
+│   │       └── WeatherVariableSelector.vue # Current / Maximum / Minimum variable switcher
 │   ├── composables/
-│   │   ├── useMunicipalityInteraction.ts # Interações de ponteiro, toque e foco por teclado
-│   │   ├── useOpenLayers.ts              # Instância ol/Map, projeções, camadas e navegação
-│   │   └── useWeatherData.ts             # Estado meteorológico, escala e frescor dos dados
+│   │   ├── useMunicipalityInteraction.ts # Pointermove, singleclick, and keyboard focus interactions
+│   │   ├── useOpenLayers.ts              # ol/Map lifecycle, projections, layers, and navigation
+│   │   └── useWeatherData.ts             # Weather state, active scale domain, and data freshness
 │   ├── constants/
-│   │   └── mapConfig.ts                  # Extensões do Paraná, projeções e opções de camadas
+│   │   └── mapConfig.ts                  # Paraná geographic bounds, projections, and layer definitions
 │   ├── services/
-│   │   └── weatherService.ts             # Carregamento e validação defensiva dos JSONs
+│   │   └── weatherService.ts             # Resilient data fetching and defensive JSON validation
 │   ├── types/
-│   │   ├── geography.ts                  # Interfaces geográficas e propriedades GeoJSON
-│   │   └── weather.ts                    # Interfaces meteorológicas e estados de disponibilidade
+│   │   ├── geography.ts                  # Geographic interfaces and GeoJSON property models
+│   │   └── weather.ts                    # Weather data models, metadata, and availability states
 │   ├── utils/
-│   │   ├── geoUtils.ts                   # Normalização sem acentos, datas pt-BR e feições
-│   │   ├── mapStyles.ts                  # Fábrica de estilos OpenLayers com cache de 256 níveis
-│   │   └── temperatureColors.ts          # Interpolação Viridis e formatação numérica
+│   │   ├── geoUtils.ts                   # Diacritic normalization, pt-BR formatting, and features
+│   │   ├── mapStyles.ts                  # OpenLayers style factory with 256-level quantized cache
+│   │   └── temperatureColors.ts          # Continuous Viridis interpolation and numerical helpers
 │   ├── App.vue
 │   ├── main.ts
 │   └── style.css
@@ -144,134 +144,134 @@ pinhal/
 
 ---
 
-## 7. Instruções de Instalação
+## 7. Installation
 
-### Pré-requisitos
-- **Node.js** `20.x` ou superior e **npm** `10+`
-- **Python** `3.10` ou superior *(opcional, necessário apenas para executar os scripts locais de coleta)*
+### Prerequisites
+- **Node.js** `20.x` or higher and **npm** `10+`
+- **Python** `3.10` or higher *(optional, only needed for running local data ingestion scripts)*
 
-### Instalação passo a passo
+### Step-by-Step Setup
 
 ```bash
-# 1. Clone o repositório
+# 1. Clone the repository
 git clone https://github.com/andreysilveira/pinhal.git
 cd pinhal
 
-# 2. Instale as dependências do frontend
+# 2. Install frontend dependencies
 npm install
 
-# 3. (Opcional) Instale as dependências do coletor Python
+# 3. (Optional) Install Python collector dependencies
 pip install -r scripts/requirements.txt
 ```
 
 > [!TIP]
-> Caso deseje personalizar o caminho base de publicação (`VITE_BASE_PATH`), copie o arquivo [`.env.example`](./.env.example) para `.env` na raiz do projeto.
+> To configure optional build settings (such as `VITE_BASE_PATH`), copy [`.env.example`](./.env.example) to `.env` in the project root.
 
 ---
 
-## 8. Instruções de Execução Local
+## 8. Local Execution
 
-| Comando | Ação |
+| Command | Action |
 | :--- | :--- |
-| `npm run dev` | Inicia o servidor de desenvolvimento Vite com *Hot Module Replacement*. |
-| `npm run typecheck` | Executa a verificação estrita de tipos (`vue-tsc -b`). |
-| `npm run build` | Compila e valida o pacote estático otimizado para produção em `dist/`. |
-| `npm run preview` | Serve localmente o pacote de produção gerado em `dist/`. |
-| `npm run prepare:geodata` | Reconstrói `public/data/municipalities.geojson` a partir das APIs oficiais do IBGE. |
-| `npm run collect:weather` | Coleta e valida temperaturas reais atualizadas em `public/data/temperatures.json`. |
+| `npm run dev` | Starts Vite development server with Hot Module Replacement (HMR). |
+| `npm run typecheck` | Runs strict TypeScript type checking (`vue-tsc -b`). |
+| `npm run build` | Builds and validates the optimized static production bundle in `dist/`. |
+| `npm run preview` | Locally serves the generated production bundle from `dist/`. |
+| `npm run prepare:geodata` | Rebuilds `public/data/municipalities.geojson` from official IBGE APIs. |
+| `npm run collect:weather` | Fetches, validates, and updates real temperatures in `public/data/temperatures.json`. |
 
 ---
 
-## 9. Explicação da Arquitetura
+## 9. Architecture
 
 ```mermaid
 flowchart LR
-    subgraph Pipeline["Ingestão & Automação (Python + GitHub Actions)"]
-        IBGE["IBGE APIs\n(Malhas + Localidades)"] --> Prep["prepare_geodata.py"]
-        Prep --> Geo["municipalities.geojson\n(399 feições • ID IBGE)"]
+    subgraph Pipeline["Ingestion & Automation (Python + GitHub Actions)"]
+        IBGE["IBGE APIs\n(Mesh + Localities)"] --> Prep["prepare_geodata.py"]
+        Prep --> Geo["municipalities.geojson\n(399 features • IBGE ID)"]
         Geo --> Collector["weather_collector.py"]
         OM["Open-Meteo API\n(CC BY 4.0)"] --> Collector
-        Collector --> Temp["temperatures.json\n(Escrita Atômica)"]
+        Collector --> Temp["temperatures.json\n(Atomic Write)"]
     end
 
-    subgraph Frontend["SPA Cartográfica (Vue 3 + TypeScript + OpenLayers)"]
+    subgraph Frontend["Cartographic SPA (Vue 3 + TypeScript + OpenLayers)"]
         Geo --> OL["useOpenLayers.ts"]
         Temp --> WD["useWeatherData.ts"]
-        WD --> Styles["mapStyles.ts\n(Cache 256 níveis Viridis)"]
+        WD --> Styles["mapStyles.ts\n(256-level Viridis Cache)"]
         Styles --> OL
         OL --> Inter["useMunicipalityInteraction.ts"]
-        Inter --> UI["Header • Tooltip • Legenda"]
+        Inter --> UI["Header • Tooltip • Legend"]
     end
 ```
 
-### Decisões Técnicas de Desempenho e Qualidade
-1. **Desacoplamento Cartográfico:** A instância `ol/Map` e suas camadas (`TileLayer` e `VectorLayer`) são isoladas fora da árvore reativa profunda do Vue utilizando `shallowRef`, evitando *overhead* de *proxies* sobre geometrias complexas.
-2. **Relacionamento Estrito por Código IBGE (`municipalityId`):** A associação entre feições geográficas e registros meteorológicos ocorre em `O(1)` via `Map<string, MunicipalityWeather>` indexado pelo código IBGE de 7 dígitos (`4100103`–`4128807`), jamais dependendo apenas do nome textual do município.
-3. **Cache Quantizado de Estilos (`mapStyles.ts`):** Os preenchimentos coropléticos são quantizados em 256 faixas da escala Viridis e reutilizados em memória. Eventos `pointermove`, zoom e trocas de variável não instanciam objetos `Style` repetidamente.
-4. **Destaque em Camada Dedicada (`highlightLayer`):** Ao passar o cursor ou tocar em um município, apenas **1 feição** é desenhada na camada de sobreposição com halo duplo de alto contraste, mantendo os 399 polígonos subjacentes intactos a 60 FPS.
+### Key Performance and Quality Decisions
+1. **Cartographic Decoupling:** The `ol/Map` instance and its underlying layers (`TileLayer` and `VectorLayer`) remain outside Vue's deep reactivity tree using `shallowRef`, preventing proxy overhead over complex geometries.
+2. **Strict Association via IBGE Code (`municipalityId`):** Municipalities are mapped to weather records in `O(1)` time via a `Map<string, MunicipalityWeather>` keyed strictly on the 7-digit IBGE code (`4100103`–`4128807`), avoiding naming or accent discrepancies.
+3. **Quantized Style Cache (`mapStyles.ts`):** Polygon fills are pre-quantized into 256 discrete bins of the Viridis color scale and cached in memory. Pointermove events, zooms, and variable toggles trigger zero repeated `Style` instantiations.
+4. **Dedicated Highlight Layer (`highlightLayer`):** When hovering or tapping a municipality, only **1 feature** is pushed to an isolated high-contrast overlay layer, ensuring a fluid 60 FPS experience with all 399 base polygons undisturbed.
 
 ---
 
-## 10. Fontes dos Dados e Limitações Documentadas
+## 10. Data Sources and Documented Limitations
 
-### Malha Territorial
-- **IBGE — API de Serviço de Dados (`servicodados.ibge.gov.br`):**
-  - *Malhas Territoriais v3* (`estados/41?intrarregiao=municipio&qualidade=intermediaria`): limites oficiais dos 399 municípios do Paraná.
-  - *Localidades v1* e *Metadados v3*: grafia oficial, regiões imediatas, área territorial (`km²`) e centroides oficiais.
+### Territorial Boundaries
+- **IBGE — Instituto Brasileiro de Geografia e Estatística (`servicodados.ibge.gov.br`):**
+  - *Malhas Territoriais v3* (`estados/41?intrarregiao=municipio&qualidade=intermediaria`): Official vector polygons for all 399 municipalities of Paraná.
+  - *Localidades v1* & *Metadados v3*: Official nomenclature, immediate geographic regions, territorial areas (`km²`), and official centroids.
 
-### Dados Meteorológicos
+### Meteorological Data
 - **Open-Meteo Weather Forecast API (`api.open-meteo.com/v1/forecast`):**
-  - Fonte aberta licenciada sob **CC BY 4.0** para uso não comercial e projetos open source.
-  - Integra modelos numéricos globais e regionais de alta resolução (ECMWF IFS, NOAA GFS, DWD ICON, MeteoSwiss), fornecendo temperatura atual a 2 m (`temperature_2m`, atualizada a cada 15 min) e temperaturas máxima e mínima previstas do dia (`temperature_2m_max`, `temperature_2m_min`) no fuso `America/Sao_Paulo`.
-  - Consultas em lote por coordenadas permitem atualizar todos os 399 centroides municipais em apenas 5 requisições HTTP.
+  - Open data licensed under **CC BY 4.0** for non-commercial and open-source use.
+  - Integrates global and regional high-resolution Numerical Weather Prediction models (ECMWF IFS, NOAA GFS, DWD ICON, MeteoSwiss), providing 2-meter air temperature (`temperature_2m`, updated every 15 min) alongside daily maximum and minimum temperatures (`temperature_2m_max`, `temperature_2m_min`) in the `America/Sao_Paulo` timezone.
+  - Efficient multi-coordinate batch requests allow updating all 399 municipal centroids in just 5 HTTP requests.
 
 > [!IMPORTANT]
-> **Limitações investigadas e conformidade de uso:**
-> - **Simepar:** Inspiração funcional da aplicação, porém não disponibiliza API pública aberta e não autenticada para consumo irrestrito por terceiros sem convênio institucional. Em respeito aos termos de uso, nenhum *scraping* não autorizado é realizado.
-> - **INMET (`apiprevmet3.inmet.gov.br`):** Apresenta instabilidade de conexão em varreduras sequenciais de 399 municípios e fornece apenas máximas/mínimas por turno nos endpoints municipais públicos, sem temperatura atual por município.
+> **Investigated Limitations and Compliance:**
+> - **Simepar:** Although functional inspiration for this project, Simepar does not provide an open, public, unauthenticated API for third-party automated consumption without a formal institutional agreement. In compliance with terms of service and engineering ethics, no unauthorized web scraping is performed.
+> - **INMET (`apiprevmet3.inmet.gov.br`):** Exhibits connection reset issues during sequential scans of 399 municipalities and only provides period-based forecasts (morning/afternoon/night) on public municipal endpoints rather than real-time current temperatures.
 
 ---
 
-## 11. Atribuições Cartográficas
+## 11. Cartographic Attributions
 
-- **Limites municipais:** © [IBGE](https://www.ibge.gov.br/) — Instituto Brasileiro de Geografia e Estatística (Dados Abertos Governamentais).
-- **Mapas-base:** © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors (ODbL).
-- **Dados meteorológicos:** [Weather data by Open-Meteo.com](https://open-meteo.com/) sob licença [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-- **Biblioteca cartográfica:** [OpenLayers](https://openlayers.org/) (BSD 2-Clause License).
-- **Referência funcional:** [Simepar Map](https://github.com/kauevestena/simepar_map) por Kauê Vestena.
-
----
-
-## 12. Processo de Atualização Automatizada
-
-O workflow [`.github/workflows/update-weather.yml`](./.github/workflows/update-weather.yml) mantém os dados meteorológicos atualizados automaticamente:
-
-1. **Agendamento Configurável:** Executa a cada 3 horas (`cron: '0 */3 * * *'`) ou manualmente via `workflow_dispatch`.
-2. **Coleta e Validação Estrita:** O script [`scripts/weather_collector.py`](./scripts/weather_collector.py) valida intervalos físicos plausíveis (`-35 °C` a `+55 °C`), consistência entre mínima, atual e máxima, e quantidade mínima de municípios válidos (`--min-valid 350`).
-3. **Proteção contra Corrupção de Dados:** Utiliza escrita atômica via arquivo temporário (`.tmp`). Caso ocorra falha de rede ou resposta incompleta, o arquivo anterior válido em `public/data/temperatures.json` **jamais é sobrescrito**, e o erro é registrado no resumo do GitHub Actions.
-4. **Publicação Contínua:** Sempre que há novos dados validados, o workflow realiza o *commit* no repositório e publica uma nova versão estática no **GitHub Pages**.
-
-*(Para testes estritamente offline sem rede, `python scripts/weather_collector.py --demo` gera um arquivo explicitamente rotulado com `"isDemo": true` e `"status": "demo"`, sinalizado visualmente na interface).*
+- **Municipal Boundaries:** © [IBGE](https://www.ibge.gov.br/) — Instituto Brasileiro de Geografia e Estatística (Brazilian Government Open Data).
+- **Basemaps:** © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors (ODbL).
+- **Weather Data:** [Weather data by Open-Meteo.com](https://open-meteo.com/) under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- **Mapping Engine:** [OpenLayers](https://openlayers.org/) (BSD 2-Clause License).
+- **Functional Inspiration:** [Simepar Map](https://github.com/kauevestena/simepar_map) by Kauê Vestena.
 
 ---
 
-## 13. Contribuição
+## 12. Automated Update Pipeline
 
-Contribuições são muito bem-vindas!
+The [`.github/workflows/update-weather.yml`](./.github/workflows/update-weather.yml) workflow keeps weather data continuously updated:
 
-1. Realize um *fork* do projeto e crie uma *branch* para sua melhoria (`git checkout -b feat/minha-melhoria`).
-2. Garanta que a checagem de tipos (`npm run typecheck`) e o build de produção (`npm run build`) executem sem erros.
-3. Respeite rigorosamente as licenças, políticas de uso e atribuições das fontes geográficas e meteorológicas.
-4. Envie um *Pull Request* descrevendo as alterações propostas.
+1. **Configurable Schedule:** Runs automatically every 3 hours (`cron: '0 */3 * * *'`) or manually via `workflow_dispatch`.
+2. **Strict Validation:** [`scripts/weather_collector.py`](./scripts/weather_collector.py) validates plausible physical ranges (`-35 °C` to `+55 °C`), numerical consistency (`min <= current <= max`), and minimum municipal coverage (`--min-valid 350`).
+3. **Data Integrity Protection:** Employs atomic writes using temporary files (`.tmp`). If network failure or truncated data occurs, the existing valid `public/data/temperatures.json` **is never overwritten**, and error diagnostics are logged to the GitHub Actions job summary.
+4. **Continuous Deployment:** Whenever validated updates are committed, the workflow triggers an updated static build and deployment to **GitHub Pages**.
+
+*(For offline testing without internet connectivity, running `python scripts/weather_collector.py --demo` generates explicitly labeled synthetic data with `"isDemo": true` and `"status": "demo"`, clearly identified across the UI).*
 
 ---
 
-## 14. Licença
+## 13. Contributing
 
-Distribuído sob a **MIT License**. Consulte o arquivo [LICENSE](./LICENSE) para mais informações.
+Contributions are welcome!
+
+1. Fork the repository and create a feature branch (`git checkout -b feat/my-feature`).
+2. Verify type safety (`npm run typecheck`) and ensure the production build passes (`npm run build`).
+3. Strictly adhere to licensing, attribution, and terms of service of all geographic and weather providers.
+4. Open a Pull Request detailing your changes.
+
+---
+
+## 14. License
+
+Distributed under the **MIT License**. See [LICENSE](./LICENSE) for full text.
 
 ---
 
 <div align="center">
-  <sub>Desenvolvido com Vue 3, TypeScript e OpenLayers para visualização aberta do clima paranaense.</sub>
+  <sub>Built with Vue 3, TypeScript, and OpenLayers for open weather visualization in Paraná, Brazil.</sub>
 </div>
